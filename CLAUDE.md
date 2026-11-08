@@ -40,7 +40,7 @@ quizzes/used.json listet alle bisherigen Themen und Fragen. Keine Frage wiederho
    Video auf Branch uploads committen und pushen, dann mit curl prüfen, dass
    https://raw.githubusercontent.com/kevinlittau-cmd/quiz/uploads/<datei>.mp4 Status 200 liefert.
 5. Buffer create_post: channelId 6af0915d62b70b94b0bf8c6f, schedulingType automatic, mode customScheduled,
-   dueAt heute 18:30 Europe/Berlin (Winterzeit +01:00, Sommerzeit +02:00), assets [{video:{url: raw URL}}], Text = Caption.
+   dueAt heute 18:00 Europe/Berlin (Winterzeit +01:00, Sommerzeit +02:00), assets [{video:{url: raw URL}}], Text = Caption.
    Danach get_post: Status scheduled und Video erkannt.
    Caption Muster (variieren): "Nur 1 % schaffen Level 10 🧠 Wie weit kommst du? Schreib dein Level in die Kommentare 👇 #quiz #<thema> #allgemeinwissen #quizzeit #fyp"
    4 bis 6 Hashtags, deutschsprachig passend zum Thema, kein #viral, kein #foryou.
