@@ -1,0 +1,16 @@
+{
+  "title": "ERRATE DIE FLAGGE",
+  "subtitle": "Nur 1 % schaffen Level 10",
+  "questions": [
+    {"type": "flag", "q": "Welches Land ist das?", "dir": "v", "stripes": [[0,146,70],[255,255,255],[206,43,55]], "options": ["Irland", "Italien", "Mexiko"], "answer": 1},
+    {"type": "flag", "q": "Welches Land ist das?", "dir": "v", "stripes": [[0,35,149],[255,255,255],[237,41,57]], "options": ["Niederlande", "Russland", "Frankreich"], "answer": 2},
+    {"type": "flag", "q": "Welches Land ist das?", "dir": "h", "stripes": [[200,16,46],[255,255,255],[200,16,46]], "options": ["Polen", "Österreich", "Lettland"], "answer": 1},
+    {"type": "flag", "q": "Welches Land ist das?", "dir": "h", "stripes": [[0,87,183],[255,215,0]], "options": ["Schweden", "Kasachstan", "Ukraine"], "answer": 2},
+    {"type": "flag", "q": "Welches Land ist das?", "dir": "v", "stripes": [[0,0,0],[253,218,36],[239,51,64]], "options": ["Belgien", "Deutschland", "Uganda"], "answer": 0},
+    {"type": "flag", "q": "Welches Land ist das?", "dir": "v", "stripes": [[22,155,98],[255,255,255],[255,136,62]], "options": ["Elfenbeinküste", "Irland", "Italien"], "answer": 1},
+    {"type": "flag", "q": "Welches Land ist das?", "dir": "h", "stripes": [[0,114,206],[0,0,0],[255,255,255]], "options": ["Finnland", "Litauen", "Estland"], "answer": 2},
+    {"type": "flag", "q": "Welches Land ist das?", "dir": "h", "stripes": [[255,255,255],[0,150,110],[214,38,18]], "options": ["Ungarn", "Bulgarien", "Italien"], "answer": 1},
+    {"type": "flag", "q": "Welches Land ist das?", "dir": "h", "stripes": [[253,185,19],[0,106,68],[193,39,45]], "options": ["Lettland", "Litauen", "Estland"], "answer": 1},
+    {"type": "flag", "q": "Welches Land ist das?", "dir": "h", "stripes": [[0,158,96],[252,209,22],[58,117,196]], "options": ["Ruanda", "Gabun", "Sierra Leone"], "answer": 1}
+  ]
+}
