@@ -14,7 +14,7 @@ In Texten für Kevin und in Captions keine Gedankenstriche.
 
 ## Format (von Kevin abgenommen, nicht ändern)
 - pipeline/quiz.py rendert 1080x1920: 10 Level, steigende Schwierigkeit, 3 Antworten (A/B/C), 3 s Stoppuhr,
-  Auflösung mit Richtig Sound, nach Level 5 Pause mit "Folge mir für mehr solcher Quiz" plus Glocke und Pfeil zum Folgen Plus.
+  Auflösung mit Richtig Sound, nach Level 5 Pause mit "Folge mir für mehr solcher Quiz" plus Glocke (nur Text, KEIN Pfeil, Kevin will keinen).
   Level 10 = Finale ohne Auflösung, Ende "Schreib die Antwort in die Kommentare".
 - Sounds in pipeline/sounds (ElevenLabs bzw. von Kevin). Lautstärken nicht erhöhen, Kevin findet laute Effekte schlimm.
 - Musik: musik.mp3. Wenn weitere Tracks musik2.mp3 usw. existieren, abwechseln (Feld "music" im JSON).

@@ -63,18 +63,9 @@ def follow_frame(pt):
     k = min(pt / 0.35, 1); s = 0.8 + 0.2 * (1 - (1 - k) ** 3)
     def ltext(y, txt, size, col):  # centered in the area left of TikTok's button column
         f = F(int(size * s)); w = d.textlength(txt, font=f)
-        d.text((470 - w / 2, y), txt, font=f, fill=col, stroke_width=5, stroke_fill=(0, 0, 0))
-    ltext(850, "Folge mir für mehr", 72, WHITE)
-    ltext(940, "solcher Quiz", 72, GOLD)
-    if k >= 1:
-        # arrow from the text towards the follow plus, gently pulsing
-        p = 0.5 + 0.5 * math.sin(pt * 7)
-        x0, y0 = 820, 975
-        x1, y1 = PLUS[0] - 58 - int(10 * p), PLUS[1]
-        d.line([(x0, y0), (x1, y1)], fill=GOLD, width=16)
-        d.polygon([(x1 + 40, y1), (x1 - 6, y1 - 30), (x1 - 6, y1 + 30)], fill=GOLD)
-        r = 52 + int(8 * p)
-        d.ellipse([PLUS[0] - r, PLUS[1] - r, PLUS[0] + r, PLUS[1] + r], outline=GOLD, width=7)
+        d.text((W / 2 - w / 2, y), txt, font=f, fill=col, stroke_width=5, stroke_fill=(0, 0, 0))
+    ltext(840, "Folge mir für mehr", 84, WHITE)
+    ltext(950, "solcher Quiz", 84, GOLD)
     return im
 
 def frame(t):
