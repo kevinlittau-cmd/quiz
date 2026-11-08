@@ -16,6 +16,7 @@ In Texten für Kevin und in Captions keine Gedankenstriche.
 - pipeline/quiz.py rendert 1080x1920: 10 Level, steigende Schwierigkeit, 3 Antworten (A/B/C), 3 s Stoppuhr,
   Auflösung mit Richtig Sound, nach Level 5 Pause mit "Folge mir für mehr solcher Quiz" plus Glocke (nur Text, KEIN Pfeil, Kevin will keinen).
   Level 10 = Finale ohne Auflösung, Ende "Schreib die Antwort in die Kommentare".
+- Layout liegt im TikTok Sicherheitsbereich (oben Suchleiste, rechts Buttons ab x 900, unten Caption ab y 1560). Inhalte nicht nach oben, rechts oder unten verschieben.
 - Sounds in pipeline/sounds (ElevenLabs bzw. von Kevin). Lautstärken nicht erhöhen, Kevin findet laute Effekte schlimm.
 - Musik: musik.mp3. Wenn weitere Tracks musik2.mp3 usw. existieren, abwechseln (Feld "music" im JSON).
 
