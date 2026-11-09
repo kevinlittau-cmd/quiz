@@ -1,0 +1,12 @@
+{"title": "TIERWISSEN QUIZ", "subtitle": "Nur 1 % schaffen Level 10", "questions": [
+{"type":"text","q":"Welches ist das größte Landtier?","options":["Giraffe","Nashorn","Elefant"],"answer":2},
+{"type":"text","q":"Wie viele Beine hat eine Spinne?","options":["6","8","10"],"answer":1},
+{"type":"text","q":"Welches dieser Tiere ist ein Säugetier?","options":["Hai","Delfin","Pinguin"],"answer":1},
+{"type":"text","q":"Wie nennt man ein junges Pferd?","options":["Fohlen","Kalb","Ferkel"],"answer":0},
+{"type":"text","q":"Welches ist das schnellste Landtier?","options":["Löwe","Pferd","Gepard"],"answer":2},
+{"type":"text","q":"Wie viele Herzen hat ein Oktopus?","options":["1","2","3"],"answer":2},
+{"type":"text","q":"Welches dieser Tiere ist ein Reptil?","options":["Krokodil","Frosch","Salamander"],"answer":0},
+{"type":"text","q":"Welches Säugetier kann aktiv fliegen?","options":["Flughörnchen","Fledermaus","Gleitbeutler"],"answer":1},
+{"type":"text","q":"Welche Farbe hat die Haut eines Eisbären?","options":["Weiß","Rosa","Schwarz"],"answer":2},
+{"type":"text","q":"Welches Säugetier legt Eier?","options":["Schnabeltier","Seekuh","Faultier"],"answer":0}
+]}

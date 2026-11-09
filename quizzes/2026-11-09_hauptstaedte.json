@@ -1,0 +1,12 @@
+{"title": "HAUPTSTADT QUIZ", "subtitle": "Nur 1 % schaffen Level 10", "questions": [
+{"type":"text","q":"Was ist die Hauptstadt von Spanien?","options":["Barcelona","Madrid","Sevilla"],"answer":1},
+{"type":"text","q":"Was ist die Hauptstadt von Italien?","options":["Rom","Mailand","Neapel"],"answer":0},
+{"type":"text","q":"Was ist die Hauptstadt von Japan?","options":["Osaka","Kyoto","Tokio"],"answer":2},
+{"type":"text","q":"Was ist die Hauptstadt von Kanada?","options":["Toronto","Ottawa","Vancouver"],"answer":1},
+{"type":"text","q":"Was ist die Hauptstadt von Australien?","options":["Sydney","Melbourne","Canberra"],"answer":2},
+{"type":"text","q":"Was ist die Hauptstadt der Türkei?","options":["Ankara","Istanbul","Izmir"],"answer":0},
+{"type":"text","q":"Was ist die Hauptstadt von Brasilien?","options":["Rio de Janeiro","São Paulo","Brasília"],"answer":2},
+{"type":"text","q":"Was ist die Hauptstadt von Neuseeland?","options":["Auckland","Wellington","Christchurch"],"answer":1},
+{"type":"text","q":"Was ist die Hauptstadt von Marokko?","options":["Rabat","Casablanca","Marrakesch"],"answer":0},
+{"type":"text","q":"Was ist die Hauptstadt von Myanmar?","options":["Rangun","Naypyidaw","Mandalay"],"answer":1}
+]}

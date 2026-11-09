@@ -15,5 +15,39 @@
    "Litauen",
    "Gabun"
   ]
+ },
+ {
+  "datum": "2026-11-09",
+  "thema": "Hauptstädte",
+  "datei": "quizzes/2026-11-09_hauptstaedte.json",
+  "fragen": [
+   "Was ist die Hauptstadt von Spanien? Madrid",
+   "Was ist die Hauptstadt von Italien? Rom",
+   "Was ist die Hauptstadt von Japan? Tokio",
+   "Was ist die Hauptstadt von Kanada? Ottawa",
+   "Was ist die Hauptstadt von Australien? Canberra",
+   "Was ist die Hauptstadt der Türkei? Ankara",
+   "Was ist die Hauptstadt von Brasilien? Brasília",
+   "Was ist die Hauptstadt von Neuseeland? Wellington",
+   "Was ist die Hauptstadt von Marokko? Rabat",
+   "Was ist die Hauptstadt von Myanmar? Naypyidaw"
+  ]
+ },
+ {
+  "datum": "2026-11-09",
+  "thema": "Tiere",
+  "datei": "quizzes/2026-11-09_tiere.json",
+  "fragen": [
+   "Welches ist das größte Landtier? Elefant",
+   "Wie viele Beine hat eine Spinne? 8",
+   "Welches dieser Tiere ist ein Säugetier? Delfin",
+   "Wie nennt man ein junges Pferd? Fohlen",
+   "Welches ist das schnellste Landtier? Gepard",
+   "Wie viele Herzen hat ein Oktopus? 3",
+   "Welches dieser Tiere ist ein Reptil? Krokodil",
+   "Welches Säugetier kann aktiv fliegen? Fledermaus",
+   "Welche Farbe hat die Haut eines Eisbären? Schwarz",
+   "Welches Säugetier legt Eier? Schnabeltier"
+  ]
  }
 ]
