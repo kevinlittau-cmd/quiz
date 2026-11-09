@@ -35,7 +35,7 @@ for y in range(H):
     t = y / H
     bd.line([(0, y), (W, y)], fill=tuple(int(BG1[i] + (BG2[i] - BG1[i]) * t) for i in range(3)))
 
-CX = 480  # content center, left of TikTok's right button column
+CX = W // 2  # content centered
 def ctext(d, y, s, font, fill=WHITE, stroke=0):
     w = d.textlength(s, font=font)
     d.text((CX - w / 2, y), s, font=font, fill=fill, stroke_width=stroke, stroke_fill=(0, 0, 0))
@@ -59,14 +59,14 @@ def draw_flag(d, q, x0, y0, fw, fh):
 
 def follow_frame(pt):
     im = bg.copy(); d = ImageDraw.Draw(im)
-    ctext(d, 270, cfg["title"], F(76), GOLD, 4)
-    ctext(d, 365, cfg["subtitle"], F(44), WHITE, 3)
+    ctext(d, 250, cfg["title"], F(72), GOLD, 4)
+    ctext(d, 342, cfg["subtitle"], F(42), WHITE, 3)
     k = min(pt / 0.35, 1); s = 0.8 + 0.2 * (1 - (1 - k) ** 3)
     def ltext(y, txt, size, col):  # centered in the area left of TikTok's button column
         f = F(int(size * s)); w = d.textlength(txt, font=f)
         d.text((CX - w / 2, y), txt, font=f, fill=col, stroke_width=5, stroke_fill=(0, 0, 0))
-    ltext(820, "Folge mir für mehr", 76, WHITE)
-    ltext(920, "solcher Quiz", 76, GOLD)
+    ltext(820, "Folge mir für mehr", 78, WHITE)
+    ltext(925, "solcher Quiz", 78, GOLD)
     return im
 
 def frame(t):
@@ -75,41 +75,41 @@ def frame(t):
     if t >= PA + PAUSE:
         t -= PAUSE
     im = bg.copy(); d = ImageDraw.Draw(im)
-    ctext(d, 270, cfg["title"], F(76), GOLD, 4)
-    ctext(d, 365, cfg["subtitle"], F(44), WHITE, 3)
+    ctext(d, 250, cfg["title"], F(72), GOLD, 4)
+    ctext(d, 342, cfg["subtitle"], F(42), WHITE, 3)
     qi = min(int(t // QLEN), NQ - 1)
     q, lt = qs[qi], t - qi * QLEN
     last = qi == NQ - 1
     slide = min(lt / Q_IN, 1); off = int((1 - slide) ** 2 * 300)
     lvl = f"LEVEL {qi + 1}" + (" (FINALE)" if last else "")
-    lf = F(56); lw = d.textlength(lvl, font=lf)
-    d.rounded_rectangle([CX - lw / 2 - 36, 445, CX + lw / 2 + 36, 535], 40, fill=RED if last else GOLD)
-    d.text((CX - lw / 2, 459), lvl, font=lf, fill=WHITE if last else (20, 20, 30))
-    qf = F(56); y = 570
-    for ln in wrap(d, q["q"], qf, 800):
-        ctext(d, y + off, ln, qf, WHITE, 3); y += 72
+    lf = F(52); lw = d.textlength(lvl, font=lf)
+    d.rounded_rectangle([CX - lw / 2 - 34, 430, CX + lw / 2 + 34, 514], 40, fill=RED if last else GOLD)
+    d.text((CX - lw / 2, 443), lvl, font=lf, fill=WHITE if last else (20, 20, 30))
+    qf = F(54); y = 555
+    for ln in wrap(d, q["q"], qf, 860):
+        ctext(d, y + off, ln, qf, WHITE, 3); y += 70
     if q["type"] == "flag":
-        fw, fh = 560, 373
-        draw_flag(d, q, CX - fw / 2, 655 + off, fw, fh); oy = 1065
+        fw, fh = 540, 360
+        draw_flag(d, q, CX - fw / 2, 650 + off, fw, fh); oy = 1035
     else:
-        oy = max(y + 80, 860)
+        oy = max(y + 70, 860)
     ended = lt >= Q_IN + COUNT
     reveal = ended and not last
-    of = F(54)
+    of = F(52)
     for i, opt in enumerate(q["options"]):
-        yy = oy + i * 135 + off
+        yy = oy + i * 150 + off
         fill = (GREEN if i == q["answer"] else (70, 40, 50)) if reveal else BOX
-        d.rounded_rectangle([70, yy, 890, yy + 115], 26, fill=fill, outline=(255, 255, 255), width=3)
-        d.text((105, yy + 28), "ABC"[i], font=of, fill=WHITE if reveal else GOLD)
-        sz = 54
+        d.rounded_rectangle([130, yy, 950, yy + 122], 28, fill=fill, outline=(255, 255, 255), width=3)
+        d.text((168, yy + 32), "ABC"[i], font=of, fill=WHITE if reveal else GOLD)
+        sz = 52
         while d.textlength(opt, font=F(sz)) > 660 and sz > 30: sz -= 2
-        d.text((180, yy + 28 + (54 - sz) // 2), opt, font=F(sz), fill=WHITE)
-    by = oy + 3 * 135 + 10
+        d.text((240, yy + 32 + (52 - sz) // 2), opt, font=F(sz), fill=WHITE)
+    by = oy + 2 * 150 + 122 + 20
     if not ended:
         rem = max(0, COUNT - max(0, lt - Q_IN)); frac = rem / COUNT
-        d.rounded_rectangle([70, by, 890, by + 44], 22, fill=(60, 60, 90))
+        d.rounded_rectangle([130, by, 950, by + 42], 21, fill=(60, 60, 90))
         col = GREEN if frac > 0.5 else (GOLD if frac > 0.25 else RED)
-        d.rounded_rectangle([70, by, 70 + max(44, 820 * frac), by + 44], 22, fill=col)
+        d.rounded_rectangle([130, by, 130 + max(42, 820 * frac), by + 42], 21, fill=col)
         ctext(d, by + 1, str(max(1, math.ceil(rem))), F(38), WHITE, 3)
     elif last:
         # dim everything, then pop the comment prompt in, centered
@@ -118,9 +118,9 @@ def frame(t):
         im = Image.alpha_composite(im.convert("RGBA"), ov).convert("RGB")
         d = ImageDraw.Draw(im)
         s = 0.8 + 0.2 * (1 - (1 - k) ** 3)
-        cy = H // 2 - 170
-        ctext(d, cy, "Schreib die Antwort", F(int(70 * s)), WHITE, 6)
-        ctext(d, cy + int(105 * s), "in die Kommentare", F(int(70 * s)), GOLD, 6)
+        cy = H // 2 - 160
+        ctext(d, cy, "Schreib die Antwort", F(int(76 * s)), WHITE, 6)
+        ctext(d, cy + int(108 * s), "in die Kommentare", F(int(76 * s)), GOLD, 6)
         if k >= 1:
             # small animated arrow pointing down
             bounce = int(12 * math.sin((lt - Q_IN - COUNT) * 6))
