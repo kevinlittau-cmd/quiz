@@ -33,22 +33,22 @@ Sprachen ("Was heißt Danke auf ...?"), Tiere, Essen und Länder, Deutschland Qu
 quizzes/used.json listet alle bisherigen Themen und Fragen. Keine Frage wiederholen.
 
 ## Täglicher Ablauf
-1. Doppelt vermeiden: Buffer list_posts für den Channel. Ist für HEUTE schon ein Post eingeplant oder gesendet: nur Schritt 6 und kurze Meldung.
-2. Thema wählen (anderes als gestern, siehe used.json), 10 Fragen schreiben, jede Antwort gedanklich prüfen. JSON speichern.
+1. Doppelt vermeiden: Buffer list_posts für den Channel. Pro Tag gibt es ZWEI Slots: 12:00 und 18:00. Nur für Slots bauen, die heute noch frei sind. Sind beide belegt: nur Schritt 6 und kurze Meldung.
+2. Pro freiem Slot ein Quiz: zwei VERSCHIEDENE Themen pro Tag, keins wie am Vortag (siehe used.json). 10 Fragen schreiben, jede Antwort gedanklich prüfen. JSON speichern.
 3. Rendern: python3 pipeline/quiz.py quizzes/<datei>.json out/<datum>_<thema>.mp4 (ca. 30 s Rechenzeit).
    Prüfen: 3 Einzelbilder ansehen (ffmpeg -ss 2 / 27 / Ende), Text nicht abgeschnitten, Ton vorhanden.
 4. used.json ergänzen (Datum, Thema, alle Fragen), JSON und used.json auf main committen und pushen.
    Video auf Branch uploads committen und pushen, dann mit curl prüfen, dass
    https://raw.githubusercontent.com/kevinlittau-cmd/quiz/uploads/<datei>.mp4 Status 200 liefert.
 5. Buffer create_post: channelId 6af0915d62b70b94b0bf8c6f, schedulingType automatic, mode customScheduled,
-   dueAt heute 18:00 Europe/Berlin (Winterzeit +01:00, Sommerzeit +02:00), assets [{video:{url: raw URL}}], Text = Caption.
+   dueAt heute 12:00 bzw. 18:00 Europe/Berlin (ein Post pro Slot; Slot weniger als 15 Minuten entfernt oder vorbei: diesen Slot auslassen) (Winterzeit +01:00, Sommerzeit +02:00), assets [{video:{url: raw URL}}], Text = Caption.
    Danach get_post: Status scheduled und Video erkannt.
    Caption Muster (variieren): "Nur 1 % schaffen Level 10 🧠 Wie weit kommst du? Schreib dein Level in die Kommentare 👇 #quiz #<thema> #allgemeinwissen #quizzeit #fyp"
    4 bis 6 Hashtags, deutschsprachig passend zum Thema, kein #viral, kein #foryou.
 6. Aufräumen: Videodateien auf uploads, deren Buffer Post gesendet ist, entfernen (uploads als orphan Branch neu bauen,
    nur ausstehende Dateien behalten, git push -f origin uploads). Nie eine Datei entfernen, deren Post noch scheduled ist.
    Post mit Status error: Video neu hochladen, neuen Post anlegen.
-7. Kevin kurz per SendUserMessage melden: Thema, Uhrzeit, ob alles eingeplant ist. Bei Fehlern klar sagen, was fehlt.
+7. Kevin kurz per SendUserMessage melden: beide Themen, Uhrzeiten, ob alles eingeplant ist. Bei Fehlern klar sagen, was fehlt.
 
 ## Später
 Ab 100 Followern in TikTok Studio "Aktivste Zeiten" prüfen lassen (Kevin fragen) und die Uhrzeit anpassen.
