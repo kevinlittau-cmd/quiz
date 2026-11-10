@@ -1,0 +1,12 @@
+{"title": "WISSENSCHAFT QUIZ", "subtitle": "Nur 1 % schaffen Level 10", "questions": [
+{"type":"text","q":"Welcher Planet ist der Sonne am nächsten?","options":["Venus","Merkur","Mars"],"answer":1},
+{"type":"text","q":"Bei wie viel Grad kocht Wasser auf Meereshöhe?","options":["100 °C","90 °C","120 °C"],"answer":0},
+{"type":"text","q":"Wie viele Planeten hat unser Sonnensystem?","options":["7","9","8"],"answer":2},
+{"type":"text","q":"Welches Gas nehmen Pflanzen für die Fotosynthese auf?","options":["Sauerstoff","Kohlendioxid","Stickstoff"],"answer":1},
+{"type":"text","q":"Was ist das chemische Zeichen für Gold?","options":["Ag","Go","Au"],"answer":2},
+{"type":"text","q":"Welches Metall ist bei Raumtemperatur flüssig?","options":["Quecksilber","Blei","Zinn"],"answer":0},
+{"type":"text","q":"Wie viele Knochen hat ein erwachsener Mensch?","options":["186","206","226"],"answer":1},
+{"type":"text","q":"Was misst man in Hertz?","options":["Spannung","Leistung","Frequenz"],"answer":2},
+{"type":"text","q":"Welches Gas macht den größten Teil der Luft aus?","options":["Stickstoff","Sauerstoff","Argon"],"answer":0},
+{"type":"text","q":"Was ist das chemische Zeichen für Kalium?","options":["Ka","K","Ca"],"answer":1}
+]}

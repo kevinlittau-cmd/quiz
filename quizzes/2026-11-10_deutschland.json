@@ -1,0 +1,12 @@
+{"title": "DEUTSCHLAND QUIZ", "subtitle": "Nur 1 % schaffen Level 10", "questions": [
+{"type":"text","q":"Wie viele Bundesländer hat Deutschland?","options":["14","16","18"],"answer":1},
+{"type":"text","q":"Was ist die Hauptstadt von Bayern?","options":["Nürnberg","Augsburg","München"],"answer":2},
+{"type":"text","q":"Welcher ist der höchste Berg Deutschlands?","options":["Zugspitze","Watzmann","Brocken"],"answer":0},
+{"type":"text","q":"In welchem Jahr fiel die Berliner Mauer?","options":["1987","1991","1989"],"answer":2},
+{"type":"text","q":"An welchem Fluss liegt Köln?","options":["Main","Rhein","Elbe"],"answer":1},
+{"type":"text","q":"Welche ist die größte deutsche Insel?","options":["Rügen","Sylt","Usedom"],"answer":0},
+{"type":"text","q":"Welches ist das flächenmäßig kleinste Bundesland?","options":["Saarland","Hamburg","Bremen"],"answer":2},
+{"type":"text","q":"In welcher Stadt steht die Porta Nigra?","options":["Mainz","Trier","Regensburg"],"answer":1},
+{"type":"text","q":"Was ist die Hauptstadt von Sachsen-Anhalt?","options":["Magdeburg","Halle","Dessau"],"answer":0},
+{"type":"text","q":"Wie viele Länder grenzen an Deutschland?","options":["8","9","10"],"answer":1}
+]}
