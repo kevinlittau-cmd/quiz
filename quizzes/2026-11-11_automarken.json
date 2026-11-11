@@ -1,0 +1,12 @@
+{"title": "AUTOMARKEN QUIZ", "subtitle": "Nur 1 % schaffen Level 10", "questions": [
+{"type":"text","q":"Aus welchem Land kommt BMW?","options":["Österreich","Deutschland","Schweiz"],"answer":1},
+{"type":"text","q":"Aus welchem Land kommt Ferrari?","options":["Italien","Spanien","Frankreich"],"answer":0},
+{"type":"text","q":"Aus welchem Land kommt Toyota?","options":["Südkorea","China","Japan"],"answer":2},
+{"type":"text","q":"Aus welchem Land kommt Hyundai?","options":["Südkorea","Japan","China"],"answer":0},
+{"type":"text","q":"Aus welchem Land stammt die Marke Volvo?","options":["Norwegen","Schweden","Dänemark"],"answer":1},
+{"type":"text","q":"In welcher Stadt hat Porsche seinen Hauptsitz?","options":["München","Stuttgart","Wolfsburg"],"answer":1},
+{"type":"text","q":"Aus welchem Land kommt Seat?","options":["Spanien","Portugal","Italien"],"answer":0},
+{"type":"text","q":"Aus welchem Land kommt Škoda?","options":["Polen","Slowakei","Tschechien"],"answer":2},
+{"type":"text","q":"Aus welchem Land kommt Dacia?","options":["Rumänien","Bulgarien","Ungarn"],"answer":0},
+{"type":"text","q":"Aus welchem Land kommt Koenigsegg?","options":["Norwegen","Dänemark","Schweden"],"answer":2}
+]}

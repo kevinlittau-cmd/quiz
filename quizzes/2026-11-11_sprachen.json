@@ -1,0 +1,12 @@
+{"title": "SPRACHEN QUIZ", "subtitle": "Nur 1 % schaffen Level 10", "questions": [
+{"type":"text","q":"Was heißt Danke auf Englisch?","options":["Thank you","Merci","Gracias"],"answer":0},
+{"type":"text","q":"Was heißt Danke auf Spanisch?","options":["Grazie","Gracias","Obrigado"],"answer":1},
+{"type":"text","q":"Was heißt Danke auf Französisch?","options":["Grazie","Gracias","Merci"],"answer":2},
+{"type":"text","q":"Was heißt Danke auf Italienisch?","options":["Grazie","Gracias","Merci"],"answer":0},
+{"type":"text","q":"Was heißt Danke auf Niederländisch?","options":["Tak","Dank je","Takk"],"answer":1},
+{"type":"text","q":"Was heißt Danke auf Portugiesisch?","options":["Obrigado","Gracias","Grazie"],"answer":0},
+{"type":"text","q":"Was heißt Danke auf Schwedisch?","options":["Takk","Kiitos","Tack"],"answer":2},
+{"type":"text","q":"Was heißt Danke auf Japanisch?","options":["Arigatō","Xièxie","Kamsahamnida"],"answer":0},
+{"type":"text","q":"Was heißt Danke auf Finnisch?","options":["Aitäh","Kiitos","Köszönöm"],"answer":1},
+{"type":"text","q":"Was heißt Danke auf Ungarisch?","options":["Děkuji","Köszönöm","Dziękuję"],"answer":1}
+]}
