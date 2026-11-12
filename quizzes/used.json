@@ -117,5 +117,39 @@
    "Was heißt Danke auf Finnisch? Kiitos",
    "Was heißt Danke auf Ungarisch? Köszönöm"
   ]
+ },
+ {
+  "datum": "2026-11-12",
+  "thema": "Geografie",
+  "datei": "quizzes/2026-11-12_geografie.json",
+  "fragen": [
+   "Welches ist der größte Ozean der Erde? Pazifik",
+   "Welcher ist der höchste Berg der Welt? Mount Everest",
+   "Auf welchem Kontinent liegt Ägypten? Afrika",
+   "Welches ist das flächenmäßig größte Land der Welt? Russland",
+   "Durch welche Stadt fließt die Themse? London",
+   "Welcher Fluss fließt durch Budapest? Donau",
+   "Welcher ist der längste Fluss Europas? Wolga",
+   "In welchem Land liegt der Kilimandscharo? Tansania",
+   "Welches ist der tiefste See der Welt? Baikalsee",
+   "Welcher Staat ist komplett von Südafrika umschlossen? Lesotho"
+  ]
+ },
+ {
+  "datum": "2026-11-12",
+  "thema": "Essen und Länder",
+  "datei": "quizzes/2026-11-12_essen.json",
+  "fragen": [
+   "Aus welchem Land stammt die Pizza? Italien",
+   "Aus welchem Land kommt Sushi? Japan",
+   "Aus welchem Land stammen Tacos? Mexiko",
+   "Aus welchem Land kommt die Paella? Spanien",
+   "Aus welchem Land kommt Gyros? Griechenland",
+   "Aus welchem Land stammt das Gulasch? Ungarn",
+   "Aus welchem Land kommt Kimchi? Korea",
+   "Aus welchem Land stammt die Suppe Pho? Vietnam",
+   "Aus welchem Land stammt Haggis? Schottland",
+   "Aus welchem Land stammt Poutine? Kanada"
+  ]
  }
 ]

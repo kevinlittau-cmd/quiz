@@ -1,0 +1,12 @@
+{"title": "ESSEN UND LÄNDER", "subtitle": "Nur 1 % schaffen Level 10", "questions": [
+{"type":"text","q":"Aus welchem Land stammt die Pizza?","options":["Italien","Spanien","Griechenland"],"answer":0},
+{"type":"text","q":"Aus welchem Land kommt Sushi?","options":["China","Japan","Thailand"],"answer":1},
+{"type":"text","q":"Aus welchem Land stammen Tacos?","options":["Spanien","Argentinien","Mexiko"],"answer":2},
+{"type":"text","q":"Aus welchem Land kommt die Paella?","options":["Portugal","Spanien","Italien"],"answer":1},
+{"type":"text","q":"Aus welchem Land kommt Gyros?","options":["Griechenland","Türkei","Zypern"],"answer":0},
+{"type":"text","q":"Aus welchem Land stammt das Gulasch?","options":["Österreich","Polen","Ungarn"],"answer":2},
+{"type":"text","q":"Aus welchem Land kommt Kimchi?","options":["Japan","Korea","Vietnam"],"answer":1},
+{"type":"text","q":"Aus welchem Land stammt die Suppe Pho?","options":["Vietnam","Thailand","Kambodscha"],"answer":0},
+{"type":"text","q":"Aus welchem Land stammt Haggis?","options":["Irland","Wales","Schottland"],"answer":2},
+{"type":"text","q":"Aus welchem Land stammt Poutine?","options":["USA","Kanada","Frankreich"],"answer":1}
+]}

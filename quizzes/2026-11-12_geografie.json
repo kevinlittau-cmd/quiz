@@ -1,0 +1,12 @@
+{"title": "GEOGRAFIE QUIZ", "subtitle": "Nur 1 % schaffen Level 10", "questions": [
+{"type":"text","q":"Welches ist der größte Ozean der Erde?","options":["Atlantik","Pazifik","Indischer Ozean"],"answer":1},
+{"type":"text","q":"Welcher ist der höchste Berg der Welt?","options":["K2","Mont Blanc","Mount Everest"],"answer":2},
+{"type":"text","q":"Auf welchem Kontinent liegt Ägypten?","options":["Afrika","Asien","Europa"],"answer":0},
+{"type":"text","q":"Welches ist das flächenmäßig größte Land der Welt?","options":["Kanada","Russland","China"],"answer":1},
+{"type":"text","q":"Durch welche Stadt fließt die Themse?","options":["Dublin","Paris","London"],"answer":2},
+{"type":"text","q":"Welcher Fluss fließt durch Budapest?","options":["Donau","Moldau","Theiß"],"answer":0},
+{"type":"text","q":"Welcher ist der längste Fluss Europas?","options":["Donau","Rhein","Wolga"],"answer":2},
+{"type":"text","q":"In welchem Land liegt der Kilimandscharo?","options":["Tansania","Kenia","Uganda"],"answer":0},
+{"type":"text","q":"Welches ist der tiefste See der Welt?","options":["Tanganjikasee","Baikalsee","Kaspisches Meer"],"answer":1},
+{"type":"text","q":"Welcher Staat ist komplett von Südafrika umschlossen?","options":["Eswatini","Lesotho","Botswana"],"answer":1}
+]}
