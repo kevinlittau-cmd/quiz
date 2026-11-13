@@ -151,5 +151,39 @@
    "Aus welchem Land stammt Haggis? Schottland",
    "Aus welchem Land stammt Poutine? Kanada"
   ]
+ },
+ {
+  "datum": "2026-11-13",
+  "thema": "Sport Regeln",
+  "datei": "quizzes/2026-11-13_sport.json",
+  "fragen": [
+   "Wie viele Spieler hat ein Fußballteam auf dem Feld? 11",
+   "Wie lange dauert ein Fußballspiel regulär? 90 Minuten",
+   "Wie viele Spieler pro Basketballteam im Feld? 5",
+   "Wie viele Punkte gibt ein Touchdown? 6",
+   "Wie viele Pins stehen beim Bowling? 10",
+   "Wie heißt im Tennis der Stand 40:40? Einstand",
+   "Hallenvolleyball: Wie viele Spieler pro Team im Feld? 6",
+   "Wie lange dauert ein Handballspiel der Profis? 60 Minuten",
+   "Wie lang ist ein Marathon? 42,195 km",
+   "Rugby Union: Wie viele Spieler pro Team im Feld? 15"
+  ]
+ },
+ {
+  "datum": "2026-11-13",
+  "thema": "Allgemeinwissen",
+  "datei": "quizzes/2026-11-13_allgemeinwissen.json",
+  "fragen": [
+   "Wie viele Minuten hat eine Stunde? 60",
+   "Welche Farbe entsteht aus Blau und Gelb? Grün",
+   "Wie viele Ecken hat ein Sechseck? 6",
+   "Wie viele Tage hat ein Schaltjahr? 366",
+   "Wer malte die Mona Lisa? Leonardo da Vinci",
+   "Wie viele Saiten hat eine normale Gitarre? 6",
+   "Welche Sprache spricht man in Brasilien? Portugiesisch",
+   "Wer komponierte die Mondscheinsonate? Beethoven",
+   "Wie viele Felder hat ein Schachbrett? 64",
+   "Wie viele Tasten hat ein normales Klavier? 88"
+  ]
  }
 ]

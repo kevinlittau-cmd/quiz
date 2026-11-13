@@ -1,0 +1,12 @@
+{"title": "ALLGEMEINWISSEN QUIZ", "subtitle": "Nur 1 % schaffen Level 10", "questions": [
+{"type":"text","q":"Wie viele Minuten hat eine Stunde?","options":["100","60","30"],"answer":1},
+{"type":"text","q":"Welche Farbe entsteht aus Blau und Gelb?","options":["Grün","Lila","Orange"],"answer":0},
+{"type":"text","q":"Wie viele Ecken hat ein Sechseck?","options":["5","8","6"],"answer":2},
+{"type":"text","q":"Wie viele Tage hat ein Schaltjahr?","options":["366","365","364"],"answer":0},
+{"type":"text","q":"Wer malte die Mona Lisa?","options":["Michelangelo","Raffael","Leonardo da Vinci"],"answer":2},
+{"type":"text","q":"Wie viele Saiten hat eine normale Gitarre?","options":["4","6","8"],"answer":1},
+{"type":"text","q":"Welche Sprache spricht man in Brasilien?","options":["Portugiesisch","Spanisch","Brasilianisch"],"answer":0},
+{"type":"text","q":"Wer komponierte die Mondscheinsonate?","options":["Mozart","Beethoven","Bach"],"answer":1},
+{"type":"text","q":"Wie viele Felder hat ein Schachbrett?","options":["81","100","64"],"answer":2},
+{"type":"text","q":"Wie viele Tasten hat ein normales Klavier?","options":["88","76","96"],"answer":0}
+]}

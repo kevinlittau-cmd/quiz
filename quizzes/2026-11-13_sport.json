@@ -1,0 +1,12 @@
+{"title": "SPORT REGELN QUIZ", "subtitle": "Nur 1 % schaffen Level 10", "questions": [
+{"type":"text","q":"Wie viele Spieler hat ein Fußballteam auf dem Feld?","options":["10","12","11"],"answer":2},
+{"type":"text","q":"Wie lange dauert ein Fußballspiel regulär?","options":["90 Minuten","80 Minuten","100 Minuten"],"answer":0},
+{"type":"text","q":"Wie viele Spieler pro Basketballteam im Feld?","options":["6","5","7"],"answer":1},
+{"type":"text","q":"Wie viele Punkte gibt ein Touchdown?","options":["3","7","6"],"answer":2},
+{"type":"text","q":"Wie viele Pins stehen beim Bowling?","options":["10","9","12"],"answer":0},
+{"type":"text","q":"Wie heißt im Tennis der Stand 40:40?","options":["Satzball","Einstand","Break"],"answer":1},
+{"type":"text","q":"Hallenvolleyball: Wie viele Spieler pro Team im Feld?","options":["5","7","6"],"answer":2},
+{"type":"text","q":"Wie lange dauert ein Handballspiel der Profis?","options":["60 Minuten","40 Minuten","70 Minuten"],"answer":0},
+{"type":"text","q":"Wie lang ist ein Marathon?","options":["41,195 km","42,195 km","43,195 km"],"answer":1},
+{"type":"text","q":"Rugby Union: Wie viele Spieler pro Team im Feld?","options":["13","11","15"],"answer":2}
+]}
