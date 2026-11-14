@@ -185,5 +185,39 @@
    "Wie viele Felder hat ein Schachbrett? 64",
    "Wie viele Tasten hat ein normales Klavier? 88"
   ]
+ },
+ {
+  "datum": "2026-11-14",
+  "thema": "Flaggen",
+  "datei": "quizzes/2026-11-14_flaggen.json",
+  "fragen": [
+   "Deutschland",
+   "Niederlande",
+   "Polen",
+   "Russland",
+   "Ungarn",
+   "Kolumbien",
+   "Elfenbeinküste",
+   "Thailand",
+   "Armenien",
+   "Mali"
+  ]
+ },
+ {
+  "datum": "2026-11-14",
+  "thema": "Tiere",
+  "datei": "quizzes/2026-11-14_tiere.json",
+  "fragen": [
+   "Wie nennt man ein männliches Huhn? Hahn",
+   "Wie viele Beine hat ein Insekt? 6",
+   "Welches ist das größte Tier der Welt? Blauwal",
+   "Wie nennt man ein junges Schaf? Lamm",
+   "Wovon ernährt sich ein Koala hauptsächlich? Eukalyptus",
+   "Welcher Vogel kann rückwärts fliegen? Kolibri",
+   "Wie heißt das Weibchen des Hirsches? Hirschkuh",
+   "Welches dieser Tiere ist ein Beuteltier? Wombat",
+   "Welches Tier dreht den Kopf bis 270 Grad? Eule",
+   "Was für ein Tier ist der Axolotl? Amphibie"
+  ]
  }
 ]

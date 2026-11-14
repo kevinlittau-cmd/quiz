@@ -1,0 +1,12 @@
+{"title": "TIERWISSEN QUIZ", "subtitle": "Nur 1 % schaffen Level 10", "questions": [
+{"type":"text","q":"Wie nennt man ein männliches Huhn?","options":["Henne","Hahn","Küken"],"answer":1},
+{"type":"text","q":"Wie viele Beine hat ein Insekt?","options":["6","4","8"],"answer":0},
+{"type":"text","q":"Welches ist das größte Tier der Welt?","options":["Pottwal","Walhai","Blauwal"],"answer":2},
+{"type":"text","q":"Wie nennt man ein junges Schaf?","options":["Lamm","Kitz","Ferkel"],"answer":0},
+{"type":"text","q":"Wovon ernährt sich ein Koala hauptsächlich?","options":["Bambus","Eukalyptus","Gras"],"answer":1},
+{"type":"text","q":"Welcher Vogel kann rückwärts fliegen?","options":["Specht","Schwalbe","Kolibri"],"answer":2},
+{"type":"text","q":"Wie heißt das Weibchen des Hirsches?","options":["Hirschkuh","Bache","Fähe"],"answer":0},
+{"type":"text","q":"Welches dieser Tiere ist ein Beuteltier?","options":["Gürteltier","Wombat","Erdferkel"],"answer":1},
+{"type":"text","q":"Welches Tier dreht den Kopf bis 270 Grad?","options":["Chamäleon","Flamingo","Eule"],"answer":2},
+{"type":"text","q":"Was für ein Tier ist der Axolotl?","options":["Amphibie","Fisch","Reptil"],"answer":0}
+]}

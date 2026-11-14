@@ -1,0 +1,12 @@
+{"title": "ERRATE DIE FLAGGE", "subtitle": "Nur 1 % schaffen Level 10", "questions": [
+{"type":"flag","q":"Welches Land ist das?","dir":"h","stripes":[[0,0,0],[221,0,0],[255,206,0]],"options":["Belgien","Deutschland","Spanien"],"answer":1},
+{"type":"flag","q":"Welches Land ist das?","dir":"h","stripes":[[174,28,40],[255,255,255],[33,70,139]],"options":["Niederlande","Serbien","Norwegen"],"answer":0},
+{"type":"flag","q":"Welches Land ist das?","dir":"h","stripes":[[255,255,255],[220,20,60]],"options":["Indonesien","Monaco","Polen"],"answer":2},
+{"type":"flag","q":"Welches Land ist das?","dir":"h","stripes":[[255,255,255],[0,57,166],[213,43,30]],"options":["Russland","Slowakei","Frankreich"],"answer":0},
+{"type":"flag","q":"Welches Land ist das?","dir":"h","stripes":[[206,41,57],[255,255,255],[71,112,80]],"options":["Bulgarien","Ungarn","Tadschikistan"],"answer":1},
+{"type":"flag","q":"Welches Land ist das?","dir":"h","stripes":[[252,209,22],[252,209,22],[0,56,147],[206,17,38]],"options":["Bolivien","Litauen","Kolumbien"],"answer":2},
+{"type":"flag","q":"Welches Land ist das?","dir":"v","stripes":[[247,127,0],[255,255,255],[0,158,96]],"options":["Elfenbeinküste","Irland","Indien"],"answer":0},
+{"type":"flag","q":"Welches Land ist das?","dir":"h","stripes":[[165,25,49],[255,255,255],[45,42,74],[45,42,74],[255,255,255],[165,25,49]],"options":["Costa Rica","Thailand","Laos"],"answer":1},
+{"type":"flag","q":"Welches Land ist das?","dir":"h","stripes":[[217,0,18],[0,51,160],[242,168,0]],"options":["Kolumbien","Andorra","Armenien"],"answer":2},
+{"type":"flag","q":"Welches Land ist das?","dir":"v","stripes":[[20,181,58],[252,209,22],[206,17,38]],"options":["Mali","Guinea","Senegal"],"answer":0}
+]}
