@@ -1,0 +1,12 @@
+{"title": "WISSENSCHAFT QUIZ", "subtitle": "Nur 1 % schaffen Level 10", "questions": [
+{"type":"text","q":"Welcher Planet wird Roter Planet genannt?","options":["Mars","Venus","Jupiter"],"answer":0},
+{"type":"text","q":"Wie viele Monde hat die Erde?","options":["2","1","0"],"answer":1},
+{"type":"text","q":"Welches Organ pumpt das Blut durch den Körper?","options":["Lunge","Leber","Herz"],"answer":2},
+{"type":"text","q":"Bei wie viel Grad gefriert Wasser auf Meereshöhe?","options":["0 °C","4 °C","-10 °C"],"answer":0},
+{"type":"text","q":"Wie lautet die chemische Formel von Wasser?","options":["CO2","H2O","O2"],"answer":1},
+{"type":"text","q":"Welcher ist der größte Planet unseres Sonnensystems?","options":["Saturn","Neptun","Jupiter"],"answer":2},
+{"type":"text","q":"Welches Teilchen ist negativ geladen?","options":["Elektron","Proton","Neutron"],"answer":0},
+{"type":"text","q":"Was ist das chemische Zeichen für Eisen?","options":["In","Fe","Ir"],"answer":1},
+{"type":"text","q":"Wie viele Chromosomen hat ein Mensch normalerweise?","options":["44","48","46"],"answer":2},
+{"type":"text","q":"Welches Element hat das chemische Zeichen W?","options":["Wasserstoff","Wolfram","Wismut"],"answer":1}
+]}

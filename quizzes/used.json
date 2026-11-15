@@ -219,5 +219,39 @@
    "Welches Tier dreht den Kopf bis 270 Grad? Eule",
    "Was für ein Tier ist der Axolotl? Amphibie"
   ]
+ },
+ {
+  "datum": "2026-11-15",
+  "thema": "Hauptstädte",
+  "datei": "quizzes/2026-11-15_hauptstaedte.json",
+  "fragen": [
+   "Was ist die Hauptstadt von Frankreich? Paris",
+   "Was ist die Hauptstadt von Österreich? Wien",
+   "Was ist die Hauptstadt von Portugal? Lissabon",
+   "Was ist die Hauptstadt von Norwegen? Oslo",
+   "Was ist die Hauptstadt der USA? Washington, D.C.",
+   "Was ist die Hauptstadt von Ägypten? Kairo",
+   "Was ist die Hauptstadt von Argentinien? Buenos Aires",
+   "Was ist die Hauptstadt von Vietnam? Hanoi",
+   "Was ist die Hauptstadt von Kasachstan? Astana",
+   "Was ist die Hauptstadt von Nigeria? Abuja"
+  ]
+ },
+ {
+  "datum": "2026-11-15",
+  "thema": "Wissenschaft",
+  "datei": "quizzes/2026-11-15_wissenschaft.json",
+  "fragen": [
+   "Welcher Planet wird Roter Planet genannt? Mars",
+   "Wie viele Monde hat die Erde? 1",
+   "Welches Organ pumpt das Blut durch den Körper? Herz",
+   "Bei wie viel Grad gefriert Wasser auf Meereshöhe? 0 °C",
+   "Wie lautet die chemische Formel von Wasser? H2O",
+   "Welcher ist der größte Planet unseres Sonnensystems? Jupiter",
+   "Welches Teilchen ist negativ geladen? Elektron",
+   "Was ist das chemische Zeichen für Eisen? Fe",
+   "Wie viele Chromosomen hat ein Mensch normalerweise? 46",
+   "Welches Element hat das chemische Zeichen W? Wolfram"
+  ]
  }
 ]

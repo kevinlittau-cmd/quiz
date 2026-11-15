@@ -1,0 +1,12 @@
+{"title": "HAUPTSTADT QUIZ", "subtitle": "Nur 1 % schaffen Level 10", "questions": [
+{"type":"text","q":"Was ist die Hauptstadt von Frankreich?","options":["Paris","Lyon","Marseille"],"answer":0},
+{"type":"text","q":"Was ist die Hauptstadt von Österreich?","options":["Salzburg","Wien","Graz"],"answer":1},
+{"type":"text","q":"Was ist die Hauptstadt von Portugal?","options":["Porto","Faro","Lissabon"],"answer":2},
+{"type":"text","q":"Was ist die Hauptstadt von Norwegen?","options":["Oslo","Bergen","Stockholm"],"answer":0},
+{"type":"text","q":"Was ist die Hauptstadt der USA?","options":["New York","Chicago","Washington, D.C."],"answer":2},
+{"type":"text","q":"Was ist die Hauptstadt von Ägypten?","options":["Kairo","Alexandria","Gizeh"],"answer":0},
+{"type":"text","q":"Was ist die Hauptstadt von Argentinien?","options":["Córdoba","Buenos Aires","Rosario"],"answer":1},
+{"type":"text","q":"Was ist die Hauptstadt von Vietnam?","options":["Ho-Chi-Minh-Stadt","Da Nang","Hanoi"],"answer":2},
+{"type":"text","q":"Was ist die Hauptstadt von Kasachstan?","options":["Astana","Almaty","Schymkent"],"answer":0},
+{"type":"text","q":"Was ist die Hauptstadt von Nigeria?","options":["Lagos","Abuja","Kano"],"answer":1}
+]}
