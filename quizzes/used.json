@@ -253,5 +253,39 @@
    "Wie viele Chromosomen hat ein Mensch normalerweise? 46",
    "Welches Element hat das chemische Zeichen W? Wolfram"
   ]
+ },
+ {
+  "datum": "2026-11-16",
+  "thema": "Deutschland",
+  "datei": "quizzes/2026-11-16_deutschland.json",
+  "fragen": [
+   "Welche Farben hat die deutsche Flagge?",
+   "Welche ist die größte Stadt Deutschlands?",
+   "In welchem Bundesland liegt Dresden?",
+   "Wann ist der Tag der Deutschen Einheit?",
+   "Welcher Fluss ist in Deutschland der längste?",
+   "Was ist die Hauptstadt von Niedersachsen?",
+   "Welcher See liegt als größter ganz in Deutschland?",
+   "Wer war der erste Bundeskanzler?",
+   "In welchem Jahr trat das Grundgesetz in Kraft?",
+   "Welcher Fluss fließt durch Bremen?"
+  ]
+ },
+ {
+  "datum": "2026-11-16",
+  "thema": "Film",
+  "datei": "quizzes/2026-11-16_film.json",
+  "fragen": [
+   "Wer ist die Hauptfigur in „Der König der Löwen“?",
+   "Welcher Zauberschüler hat eine Blitznarbe auf der Stirn?",
+   "Auf welchem Schiff spielt der Film von 1997 mit DiCaprio?",
+   "Welche Pille schluckt Neo in „Matrix“?",
+   "Was für ein Fisch ist Nemo?",
+   "In welcher Stadt kämpft Batman gegen das Verbrechen?",
+   "In welchem Jahr kam der erste „Star Wars“ Film ins Kino?",
+   "Wie viele Oscars gewann „Titanic“?",
+   "Wer führte Regie bei „Jurassic Park“ (1993)?",
+   "Erster nicht englischer Film mit Oscar „Bester Film“?"
+  ]
  }
 ]

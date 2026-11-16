@@ -1,0 +1,12 @@
+{"title": "DEUTSCHLAND QUIZ", "subtitle": "Nur 1 % schaffen Level 10", "questions": [
+{"type":"text","q":"Welche Farben hat die deutsche Flagge?","options":["Schwarz, Weiß, Rot","Schwarz, Rot, Gold","Rot, Weiß, Gold"],"answer":1},
+{"type":"text","q":"Welche ist die größte Stadt Deutschlands?","options":["Hamburg","München","Berlin"],"answer":2},
+{"type":"text","q":"In welchem Bundesland liegt Dresden?","options":["Sachsen","Thüringen","Brandenburg"],"answer":0},
+{"type":"text","q":"Wann ist der Tag der Deutschen Einheit?","options":["9. November","3. Oktober","17. Juni"],"answer":1},
+{"type":"text","q":"Welcher Fluss ist in Deutschland der längste?","options":["Elbe","Donau","Rhein"],"answer":2},
+{"type":"text","q":"Was ist die Hauptstadt von Niedersachsen?","options":["Hannover","Braunschweig","Oldenburg"],"answer":0},
+{"type":"text","q":"Welcher See liegt als größter ganz in Deutschland?","options":["Chiemsee","Müritz","Starnberger See"],"answer":1},
+{"type":"text","q":"Wer war der erste Bundeskanzler?","options":["Konrad Adenauer","Ludwig Erhard","Willy Brandt"],"answer":0},
+{"type":"text","q":"In welchem Jahr trat das Grundgesetz in Kraft?","options":["1949","1945","1955"],"answer":0},
+{"type":"text","q":"Welcher Fluss fließt durch Bremen?","options":["Ems","Weser","Elbe"],"answer":1}
+]}

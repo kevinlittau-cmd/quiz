@@ -1,0 +1,12 @@
+{"title": "FILM QUIZ", "subtitle": "Nur 1 % schaffen Level 10", "questions": [
+{"type":"text","q":"Wer ist die Hauptfigur in „Der König der Löwen“?","options":["Mufasa","Simba","Timon"],"answer":1},
+{"type":"text","q":"Welcher Zauberschüler hat eine Blitznarbe auf der Stirn?","options":["Harry Potter","Ron Weasley","Draco Malfoy"],"answer":0},
+{"type":"text","q":"Auf welchem Schiff spielt der Film von 1997 mit DiCaprio?","options":["Lusitania","Britannic","Titanic"],"answer":2},
+{"type":"text","q":"Welche Pille schluckt Neo in „Matrix“?","options":["Die blaue","Die rote","Die grüne"],"answer":1},
+{"type":"text","q":"Was für ein Fisch ist Nemo?","options":["Clownfisch","Doktorfisch","Kugelfisch"],"answer":0},
+{"type":"text","q":"In welcher Stadt kämpft Batman gegen das Verbrechen?","options":["Metropolis","Gotham City","Star City"],"answer":1},
+{"type":"text","q":"In welchem Jahr kam der erste „Star Wars“ Film ins Kino?","options":["1977","1980","1974"],"answer":0},
+{"type":"text","q":"Wie viele Oscars gewann „Titanic“?","options":["9","11","14"],"answer":1},
+{"type":"text","q":"Wer führte Regie bei „Jurassic Park“ (1993)?","options":["James Cameron","George Lucas","Steven Spielberg"],"answer":2},
+{"type":"text","q":"Erster nicht englischer Film mit Oscar „Bester Film“?","options":["Roma","Parasite","Das Leben ist schön"],"answer":1}
+]}
