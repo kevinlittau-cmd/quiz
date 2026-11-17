@@ -287,5 +287,39 @@
    "Wer führte Regie bei „Jurassic Park“ (1993)?",
    "Erster nicht englischer Film mit Oscar „Bester Film“?"
   ]
+ },
+ {
+  "datum": "2026-11-17",
+  "thema": "Sprachen",
+  "datei": "quizzes/2026-11-17_sprachen.json",
+  "fragen": [
+   "Was heißt Hund auf Englisch? Dog",
+   "Was heißt Wasser auf Spanisch? Agua",
+   "Was heißt Käse auf Französisch? Fromage",
+   "Was heißt Haus auf Italienisch? Casa",
+   "Was heißt Fahrrad auf Niederländisch? Fiets",
+   "Was heißt Ja auf Polnisch? Tak",
+   "Was heißt Wasser auf Türkisch? Su",
+   "Was heißt Brot auf Schwedisch? Bröd",
+   "Was heißt Katze auf Japanisch? Neko",
+   "Was heißt Wasser auf Ungarisch? Víz"
+  ]
+ },
+ {
+  "datum": "2026-11-17",
+  "thema": "Allgemeinwissen",
+  "datei": "quizzes/2026-11-17_allgemeinwissen.json",
+  "fragen": [
+   "Wie viele Monate hat ein Jahr? 12",
+   "Wie viele Tage hat eine Woche? 7",
+   "Welche Farbe hat ein Smaragd? Grün",
+   "Wer schrieb „Romeo und Julia“? Shakespeare",
+   "Wie viele Sekunden hat eine Stunde? 3600",
+   "Wie heißt die Währung von Japan? Yen",
+   "Wer komponierte „Die Zauberflöte“? Mozart",
+   "Wie viele Bundesländer hat Österreich? 9",
+   "Wer malte „Die Sternennacht“? Van Gogh",
+   "Wie viele Flächen hat ein Ikosaeder? 20"
+  ]
  }
 ]

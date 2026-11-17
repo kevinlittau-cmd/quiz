@@ -1,0 +1,12 @@
+{"title": "SPRACHEN QUIZ", "subtitle": "Nur 1 % schaffen Level 10", "questions": [
+{"type":"text","q":"Was heißt Hund auf Englisch?","options":["Cat","Dog","Bird"],"answer":1},
+{"type":"text","q":"Was heißt Wasser auf Spanisch?","options":["Agua","Acqua","Eau"],"answer":0},
+{"type":"text","q":"Was heißt Käse auf Französisch?","options":["Queso","Formaggio","Fromage"],"answer":2},
+{"type":"text","q":"Was heißt Haus auf Italienisch?","options":["Casa","Maison","Huis"],"answer":0},
+{"type":"text","q":"Was heißt Fahrrad auf Niederländisch?","options":["Cykel","Fiets","Bicicleta"],"answer":1},
+{"type":"text","q":"Was heißt Ja auf Polnisch?","options":["Da","Tak","Jo"],"answer":1},
+{"type":"text","q":"Was heißt Wasser auf Türkisch?","options":["Voda","Mai","Su"],"answer":2},
+{"type":"text","q":"Was heißt Brot auf Schwedisch?","options":["Leipä","Brood","Bröd"],"answer":2},
+{"type":"text","q":"Was heißt Katze auf Japanisch?","options":["Inu","Neko","Tori"],"answer":1},
+{"type":"text","q":"Was heißt Wasser auf Ungarisch?","options":["Vesi","Vand","Víz"],"answer":2}
+]}

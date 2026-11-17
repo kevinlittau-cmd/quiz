@@ -1,0 +1,12 @@
+{"title": "ALLGEMEINWISSEN", "subtitle": "Nur 1 % schaffen Level 10", "questions": [
+{"type":"text","q":"Wie viele Monate hat ein Jahr?","options":["10","12","14"],"answer":1},
+{"type":"text","q":"Wie viele Tage hat eine Woche?","options":["7","5","8"],"answer":0},
+{"type":"text","q":"Welche Farbe hat ein Smaragd?","options":["Rot","Blau","Grün"],"answer":2},
+{"type":"text","q":"Wer schrieb „Romeo und Julia“?","options":["Goethe","Shakespeare","Schiller"],"answer":1},
+{"type":"text","q":"Wie viele Sekunden hat eine Stunde?","options":["3600","360","6000"],"answer":0},
+{"type":"text","q":"Wie heißt die Währung von Japan?","options":["Won","Yuan","Yen"],"answer":2},
+{"type":"text","q":"Wer komponierte „Die Zauberflöte“?","options":["Mozart","Haydn","Bach"],"answer":0},
+{"type":"text","q":"Wie viele Bundesländer hat Österreich?","options":["8","9","10"],"answer":1},
+{"type":"text","q":"Wer malte „Die Sternennacht“?","options":["Monet","Van Gogh","Picasso"],"answer":1},
+{"type":"text","q":"Wie viele Flächen hat ein Ikosaeder?","options":["12","20","24"],"answer":1}
+]}
