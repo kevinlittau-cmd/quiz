@@ -321,5 +321,39 @@
    "Wer malte „Die Sternennacht“? Van Gogh",
    "Wie viele Flächen hat ein Ikosaeder? 20"
   ]
+ },
+ {
+  "datum": "2026-11-18",
+  "thema": "Automarken",
+  "datei": "quizzes/2026-11-18_automarken.json",
+  "fragen": [
+   "Aus welchem Land kommt Audi? Deutschland",
+   "Aus welchem Land kommt Renault? Frankreich",
+   "Welche Marke baut den Golf? Volkswagen",
+   "Welche Marke baut den 911? Porsche",
+   "Aus welchem Land kommt Lamborghini? Italien",
+   "Aus welchem Land kommt Kia? Südkorea",
+   "Zu welchem Konzern gehört Audi? Volkswagen",
+   "Zu welchem Konzern gehört Mini? BMW",
+   "Aus welchem Land kommt Lada? Russland",
+   "Zu welchem Konzern gehört Volvo Cars? Geely"
+  ]
+ },
+ {
+  "datum": "2026-11-18",
+  "thema": "Geografie",
+  "datei": "quizzes/2026-11-18_geografie.json",
+  "fragen": [
+   "Auf welchem Kontinent liegt Brasilien? Südamerika",
+   "Welcher ist der größte Kontinent? Asien",
+   "Welcher Fluss fließt durch Paris? Seine",
+   "Welches Meer liegt zwischen Europa und Afrika? Mittelmeer",
+   "Welches ist das kleinste Land der Welt? Vatikanstadt",
+   "Welches ist die größte heiße Wüste? Sahara",
+   "In welchem Gebirge liegt der Mount Everest? Himalaya",
+   "Welcher ist der längste Fluss Afrikas? Nil",
+   "Welcher ist der höchste Berg der Alpen? Mont Blanc",
+   "Welcher ist der größte See Afrikas? Victoriasee"
+  ]
  }
 ]

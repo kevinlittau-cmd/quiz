@@ -1,0 +1,12 @@
+{"title": "GEOGRAFIE", "subtitle": "Nur 1 % schaffen Level 10", "questions": [
+{"type":"text","q":"Auf welchem Kontinent liegt Brasilien?","options":["Afrika","Südamerika","Asien"],"answer":1},
+{"type":"text","q":"Welcher ist der größte Kontinent?","options":["Asien","Afrika","Europa"],"answer":0},
+{"type":"text","q":"Welcher Fluss fließt durch Paris?","options":["Loire","Rhône","Seine"],"answer":2},
+{"type":"text","q":"Welches Meer liegt zwischen Europa und Afrika?","options":["Mittelmeer","Schwarzes Meer","Rotes Meer"],"answer":0},
+{"type":"text","q":"Welches ist das kleinste Land der Welt?","options":["Monaco","Vatikanstadt","San Marino"],"answer":1},
+{"type":"text","q":"Welches ist die größte heiße Wüste?","options":["Gobi","Kalahari","Sahara"],"answer":2},
+{"type":"text","q":"In welchem Gebirge liegt der Mount Everest?","options":["Himalaya","Anden","Karakorum"],"answer":0},
+{"type":"text","q":"Welcher ist der längste Fluss Afrikas?","options":["Kongo","Niger","Nil"],"answer":2},
+{"type":"text","q":"Welcher ist der höchste Berg der Alpen?","options":["Matterhorn","Mont Blanc","Zugspitze"],"answer":1},
+{"type":"text","q":"Welcher ist der größte See Afrikas?","options":["Victoriasee","Tanganjikasee","Malawisee"],"answer":0}
+]}

@@ -1,0 +1,12 @@
+{"title": "AUTOMARKEN", "subtitle": "Nur 1 % schaffen Level 10", "questions": [
+{"type":"text","q":"Aus welchem Land kommt Audi?","options":["Deutschland","Italien","Frankreich"],"answer":0},
+{"type":"text","q":"Aus welchem Land kommt Renault?","options":["Spanien","Belgien","Frankreich"],"answer":2},
+{"type":"text","q":"Welche Marke baut den Golf?","options":["Opel","Volkswagen","Ford"],"answer":1},
+{"type":"text","q":"Welche Marke baut den 911?","options":["Porsche","BMW","Audi"],"answer":0},
+{"type":"text","q":"Aus welchem Land kommt Lamborghini?","options":["Spanien","Italien","Schweiz"],"answer":1},
+{"type":"text","q":"Aus welchem Land kommt Kia?","options":["Japan","China","Südkorea"],"answer":2},
+{"type":"text","q":"Zu welchem Konzern gehört Audi?","options":["BMW","Volkswagen","Mercedes-Benz"],"answer":1},
+{"type":"text","q":"Zu welchem Konzern gehört Mini?","options":["Volkswagen","Mercedes-Benz","BMW"],"answer":2},
+{"type":"text","q":"Aus welchem Land kommt Lada?","options":["Russland","Polen","Ukraine"],"answer":0},
+{"type":"text","q":"Zu welchem Konzern gehört Volvo Cars?","options":["Toyota","Geely","Stellantis"],"answer":1}
+]}
