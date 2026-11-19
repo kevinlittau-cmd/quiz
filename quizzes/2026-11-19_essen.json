@@ -1,0 +1,106 @@
+{
+ "title": "ESSEN UND LÄNDER",
+ "subtitle": "Nur 1 % schaffen Level 10",
+ "questions": [
+  {
+   "type": "text",
+   "q": "Aus welchem Land kommt die Currywurst?",
+   "options": [
+    "Österreich",
+    "Deutschland",
+    "Polen"
+   ],
+   "answer": 1
+  },
+  {
+   "type": "text",
+   "q": "Aus welchem Land stammt Spaghetti Carbonara?",
+   "options": [
+    "Spanien",
+    "Frankreich",
+    "Italien"
+   ],
+   "answer": 2
+  },
+  {
+   "type": "text",
+   "q": "Aus welchem Land stammt Guacamole?",
+   "options": [
+    "Brasilien",
+    "Mexiko",
+    "Peru"
+   ],
+   "answer": 1
+  },
+  {
+   "type": "text",
+   "q": "Aus welchem Land stammt das Käsefondue?",
+   "options": [
+    "Schweiz",
+    "Belgien",
+    "Niederlande"
+   ],
+   "answer": 0
+  },
+  {
+   "type": "text",
+   "q": "Aus welchem Land stammt Pad Thai?",
+   "options": [
+    "Vietnam",
+    "China",
+    "Thailand"
+   ],
+   "answer": 2
+  },
+  {
+   "type": "text",
+   "q": "Aus welchem Land kommen Köttbullar?",
+   "options": [
+    "Norwegen",
+    "Finnland",
+    "Schweden"
+   ],
+   "answer": 2
+  },
+  {
+   "type": "text",
+   "q": "Aus welchem Land stammt Pastel de Nata?",
+   "options": [
+    "Spanien",
+    "Portugal",
+    "Brasilien"
+   ],
+   "answer": 1
+  },
+  {
+   "type": "text",
+   "q": "Aus welchem Land stammt Bibimbap?",
+   "options": [
+    "Japan",
+    "Korea",
+    "China"
+   ],
+   "answer": 1
+  },
+  {
+   "type": "text",
+   "q": "Aus welchem Land stammt Smørrebrød?",
+   "options": [
+    "Norwegen",
+    "Schweden",
+    "Dänemark"
+   ],
+   "answer": 2
+  },
+  {
+   "type": "text",
+   "q": "Aus welchem Land stammt Chatschapuri?",
+   "options": [
+    "Georgien",
+    "Armenien",
+    "Aserbaidschan"
+   ],
+   "answer": 0
+  }
+ ]
+}

@@ -355,5 +355,39 @@
    "Welcher ist der höchste Berg der Alpen? Mont Blanc",
    "Welcher ist der größte See Afrikas? Victoriasee"
   ]
+ },
+ {
+  "datum": "2026-11-19",
+  "thema": "Essen und Länder",
+  "datei": "quizzes/2026-11-19_essen.json",
+  "fragen": [
+   "Aus welchem Land kommt die Currywurst? Deutschland",
+   "Aus welchem Land stammt Spaghetti Carbonara? Italien",
+   "Aus welchem Land stammt Guacamole? Mexiko",
+   "Aus welchem Land stammt das Käsefondue? Schweiz",
+   "Aus welchem Land stammt Pad Thai? Thailand",
+   "Aus welchem Land kommen Köttbullar? Schweden",
+   "Aus welchem Land stammt Pastel de Nata? Portugal",
+   "Aus welchem Land stammt Bibimbap? Korea",
+   "Aus welchem Land stammt Smørrebrød? Dänemark",
+   "Aus welchem Land stammt Chatschapuri? Georgien"
+  ]
+ },
+ {
+  "datum": "2026-11-19",
+  "thema": "Sport Regeln",
+  "datei": "quizzes/2026-11-19_sport.json",
+  "fragen": [
+   "Wie viele Löcher hat ein normaler Golfplatz? 18",
+   "Wie viele Punkte gibt ein Wurf hinter der Dreierlinie? 3",
+   "Wie viele Spieler hat ein Handballteam auf dem Feld? 7",
+   "Wie viele Spieler hat ein Eishockeyteam auf dem Eis? 6",
+   "Wie viele Punkte zählt das Bullseye beim Darts? 50",
+   "Bis wie viele Punkte geht ein Satz im Tischtennis? 11",
+   "Wie viele Spieler hat ein Baseballteam im Feld? 9",
+   "Wie viele Minuten dauert ein Viertel in der NBA? 12",
+   "Wie viele Punkte gibt ein Field Goal im American Football? 3",
+   "Wie viele Spieler hat ein Cricketteam auf dem Feld? 11"
+  ]
  }
 ]

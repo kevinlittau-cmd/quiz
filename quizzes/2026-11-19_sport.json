@@ -1,0 +1,106 @@
+{
+ "title": "SPORT REGELN",
+ "subtitle": "Nur 1 % schaffen Level 10",
+ "questions": [
+  {
+   "type": "text",
+   "q": "Wie viele Löcher hat ein normaler Golfplatz?",
+   "options": [
+    "9",
+    "18",
+    "24"
+   ],
+   "answer": 1
+  },
+  {
+   "type": "text",
+   "q": "Wie viele Punkte gibt ein Wurf hinter der Dreierlinie?",
+   "options": [
+    "3",
+    "2",
+    "4"
+   ],
+   "answer": 0
+  },
+  {
+   "type": "text",
+   "q": "Wie viele Spieler hat ein Handballteam auf dem Feld?",
+   "options": [
+    "6",
+    "8",
+    "7"
+   ],
+   "answer": 2
+  },
+  {
+   "type": "text",
+   "q": "Wie viele Spieler hat ein Eishockeyteam auf dem Eis?",
+   "options": [
+    "6",
+    "5",
+    "7"
+   ],
+   "answer": 0
+  },
+  {
+   "type": "text",
+   "q": "Wie viele Punkte zählt das Bullseye beim Darts?",
+   "options": [
+    "25",
+    "100",
+    "50"
+   ],
+   "answer": 2
+  },
+  {
+   "type": "text",
+   "q": "Bis wie viele Punkte geht ein Satz im Tischtennis?",
+   "options": [
+    "21",
+    "11",
+    "15"
+   ],
+   "answer": 1
+  },
+  {
+   "type": "text",
+   "q": "Wie viele Spieler hat ein Baseballteam im Feld?",
+   "options": [
+    "9",
+    "10",
+    "11"
+   ],
+   "answer": 0
+  },
+  {
+   "type": "text",
+   "q": "Wie viele Minuten dauert ein Viertel in der NBA?",
+   "options": [
+    "10",
+    "15",
+    "12"
+   ],
+   "answer": 2
+  },
+  {
+   "type": "text",
+   "q": "Wie viele Punkte gibt ein Field Goal im American Football?",
+   "options": [
+    "2",
+    "3",
+    "6"
+   ],
+   "answer": 1
+  },
+  {
+   "type": "text",
+   "q": "Wie viele Spieler hat ein Cricketteam auf dem Feld?",
+   "options": [
+    "13",
+    "9",
+    "11"
+   ],
+   "answer": 2
+  }
+ ]
+}
