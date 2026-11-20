@@ -1,0 +1,316 @@
+{
+ "title": "ERRATE DIE FLAGGE",
+ "subtitle": "Nur 1 % schaffen Level 10",
+ "questions": [
+  {
+   "type": "flag",
+   "q": "Welches Land ist das?",
+   "dir": "v",
+   "stripes": [
+    [
+     0,
+     135,
+     81
+    ],
+    [
+     255,
+     255,
+     255
+    ],
+    [
+     0,
+     135,
+     81
+    ]
+   ],
+   "options": [
+    "Irland",
+    "Nigeria",
+    "Italien"
+   ],
+   "answer": 1
+  },
+  {
+   "type": "flag",
+   "q": "Welches Land ist das?",
+   "dir": "h",
+   "stripes": [
+    [
+     237,
+     41,
+     57
+    ],
+    [
+     255,
+     255,
+     255
+    ],
+    [
+     0,
+     161,
+     222
+    ]
+   ],
+   "options": [
+    "Luxemburg",
+    "Niederlande",
+    "Frankreich"
+   ],
+   "answer": 0
+  },
+  {
+   "type": "flag",
+   "q": "Welches Land ist das?",
+   "dir": "h",
+   "stripes": [
+    [
+     206,
+     17,
+     38
+    ],
+    [
+     255,
+     255,
+     255
+    ],
+    [
+     0,
+     0,
+     0
+    ]
+   ],
+   "options": [
+    "Ägypten",
+    "Irak",
+    "Jemen"
+   ],
+   "answer": 2
+  },
+  {
+   "type": "flag",
+   "q": "Welches Land ist das?",
+   "dir": "v",
+   "stripes": [
+    [
+     217,
+     16,
+     35
+    ],
+    [
+     255,
+     255,
+     255
+    ],
+    [
+     217,
+     16,
+     35
+    ]
+   ],
+   "options": [
+    "Österreich",
+    "Peru",
+    "Kanada"
+   ],
+   "answer": 1
+  },
+  {
+   "type": "flag",
+   "q": "Welches Land ist das?",
+   "dir": "v",
+   "stripes": [
+    [
+     206,
+     17,
+     38
+    ],
+    [
+     252,
+     209,
+     22
+    ],
+    [
+     0,
+     148,
+     96
+    ]
+   ],
+   "options": [
+    "Guinea",
+    "Mali",
+    "Senegal"
+   ],
+   "answer": 0
+  },
+  {
+   "type": "flag",
+   "q": "Welches Land ist das?",
+   "dir": "h",
+   "stripes": [
+    [
+     213,
+     43,
+     30
+    ],
+    [
+     249,
+     228,
+     0
+    ],
+    [
+     0,
+     122,
+     51
+    ]
+   ],
+   "options": [
+    "Litauen",
+    "Ghana",
+    "Bolivien"
+   ],
+   "answer": 2
+  },
+  {
+   "type": "flag",
+   "q": "Welches Land ist das?",
+   "dir": "h",
+   "stripes": [
+    [
+     158,
+     48,
+     57
+    ],
+    [
+     158,
+     48,
+     57
+    ],
+    [
+     255,
+     255,
+     255
+    ],
+    [
+     158,
+     48,
+     57
+    ],
+    [
+     158,
+     48,
+     57
+    ]
+   ],
+   "options": [
+    "Österreich",
+    "Lettland",
+    "Dänemark"
+   ],
+   "answer": 1
+  },
+  {
+   "type": "flag",
+   "q": "Welches Land ist das?",
+   "dir": "h",
+   "stripes": [
+    [
+     30,
+     181,
+     58
+    ],
+    [
+     255,
+     255,
+     255
+    ],
+    [
+     0,
+     114,
+     198
+    ]
+   ],
+   "options": [
+    "Sierra Leone",
+    "Gambia",
+    "Usbekistan"
+   ],
+   "answer": 0
+  },
+  {
+   "type": "flag",
+   "q": "Welches Land ist das?",
+   "dir": "h",
+   "stripes": [
+    [
+     0,
+     43,
+     127
+    ],
+    [
+     255,
+     255,
+     255
+    ],
+    [
+     206,
+     17,
+     38
+    ],
+    [
+     206,
+     17,
+     38
+    ],
+    [
+     255,
+     255,
+     255
+    ],
+    [
+     0,
+     43,
+     127
+    ]
+   ],
+   "options": [
+    "Thailand",
+    "Kuba",
+    "Costa Rica"
+   ],
+   "answer": 2
+  },
+  {
+   "type": "flag",
+   "q": "Welches Land ist das?",
+   "dir": "h",
+   "stripes": [
+    [
+     234,
+     40,
+     57
+    ],
+    [
+     26,
+     32,
+     108
+    ],
+    [
+     255,
+     213,
+     0
+    ],
+    [
+     0,
+     165,
+     81
+    ]
+   ],
+   "options": [
+    "Seychellen",
+    "Mauritius",
+    "Madagaskar"
+   ],
+   "answer": 1
+  }
+ ]
+}

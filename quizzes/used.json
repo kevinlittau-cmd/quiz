@@ -389,5 +389,39 @@
    "Wie viele Punkte gibt ein Field Goal im American Football? 3",
    "Wie viele Spieler hat ein Cricketteam auf dem Feld? 11"
   ]
+ },
+ {
+  "datum": "2026-11-20",
+  "thema": "Flaggen",
+  "datei": "quizzes/2026-11-20_flaggen.json",
+  "fragen": [
+   "Nigeria",
+   "Luxemburg",
+   "Jemen",
+   "Peru",
+   "Guinea",
+   "Bolivien",
+   "Lettland",
+   "Sierra Leone",
+   "Costa Rica",
+   "Mauritius"
+  ]
+ },
+ {
+  "datum": "2026-11-20",
+  "thema": "Film",
+  "datei": "quizzes/2026-11-20_film.json",
+  "fragen": [
+   "Wie heißt der Schneemann in „Die Eiskönigin“?",
+   "Welche Hautfarbe hat Shrek?",
+   "Wie heißt der Cowboy in „Toy Story“?",
+   "Was für ein Tier ist Dumbo?",
+   "In welchem Land spielt „Ratatouille“?",
+   "Welcher Superheld ist Peter Parker?",
+   "Welche Agentennummer hat James Bond?",
+   "Wo wird in „Der Herr der Ringe“ der Ring zerstört?",
+   "Wer spielt den Joker in „The Dark Knight“ (2008)?",
+   "Erster abendfüllender Disney Zeichentrickfilm?"
+  ]
  }
 ]

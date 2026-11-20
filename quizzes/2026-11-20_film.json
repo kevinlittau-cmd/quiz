@@ -1,0 +1,106 @@
+{
+ "title": "FILM QUIZ",
+ "subtitle": "Nur 1 % schaffen Level 10",
+ "questions": [
+  {
+   "type": "text",
+   "q": "Wie heißt der Schneemann in „Die Eiskönigin“?",
+   "options": [
+    "Sven",
+    "Olaf",
+    "Kristoff"
+   ],
+   "answer": 1
+  },
+  {
+   "type": "text",
+   "q": "Welche Hautfarbe hat Shrek?",
+   "options": [
+    "Grün",
+    "Blau",
+    "Gelb"
+   ],
+   "answer": 0
+  },
+  {
+   "type": "text",
+   "q": "Wie heißt der Cowboy in „Toy Story“?",
+   "options": [
+    "Buzz",
+    "Rex",
+    "Woody"
+   ],
+   "answer": 2
+  },
+  {
+   "type": "text",
+   "q": "Was für ein Tier ist Dumbo?",
+   "options": [
+    "Elefant",
+    "Maus",
+    "Esel"
+   ],
+   "answer": 0
+  },
+  {
+   "type": "text",
+   "q": "In welchem Land spielt „Ratatouille“?",
+   "options": [
+    "Italien",
+    "Frankreich",
+    "Spanien"
+   ],
+   "answer": 1
+  },
+  {
+   "type": "text",
+   "q": "Welcher Superheld ist Peter Parker?",
+   "options": [
+    "Batman",
+    "Superman",
+    "Spider-Man"
+   ],
+   "answer": 2
+  },
+  {
+   "type": "text",
+   "q": "Welche Agentennummer hat James Bond?",
+   "options": [
+    "006",
+    "007",
+    "009"
+   ],
+   "answer": 1
+  },
+  {
+   "type": "text",
+   "q": "Wo wird in „Der Herr der Ringe“ der Ring zerstört?",
+   "options": [
+    "Schicksalsberg",
+    "Bruchtal",
+    "Isengard"
+   ],
+   "answer": 0
+  },
+  {
+   "type": "text",
+   "q": "Wer spielt den Joker in „The Dark Knight“ (2008)?",
+   "options": [
+    "Jared Leto",
+    "Heath Ledger",
+    "Joaquin Phoenix"
+   ],
+   "answer": 1
+  },
+  {
+   "type": "text",
+   "q": "Erster abendfüllender Disney Zeichentrickfilm?",
+   "options": [
+    "Pinocchio",
+    "Bambi",
+    "Schneewittchen"
+   ],
+   "answer": 2
+  }
+ ]
+}
