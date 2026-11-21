@@ -423,5 +423,39 @@
    "Wer spielt den Joker in „The Dark Knight“ (2008)?",
    "Erster abendfüllender Disney Zeichentrickfilm?"
   ]
+ },
+ {
+  "datum": "2026-11-21",
+  "thema": "Hauptstädte",
+  "datei": "quizzes/2026-11-21_hauptstaedte.json",
+  "fragen": [
+   "Was ist die Hauptstadt von Großbritannien? London",
+   "Was ist die Hauptstadt von Griechenland? Athen",
+   "Was ist die Hauptstadt von Russland? Moskau",
+   "Was ist die Hauptstadt von Schweden? Stockholm",
+   "Was ist die Hauptstadt von Polen? Warschau",
+   "Was ist die Hauptstadt von China? Peking",
+   "Was ist die Hauptstadt von Indien? Neu-Delhi",
+   "Was ist die Hauptstadt von Kolumbien? Bogotá",
+   "Was ist die Hauptstadt von Pakistan? Islamabad",
+   "Was ist die Hauptstadt von Belize? Belmopan"
+  ]
+ },
+ {
+  "datum": "2026-11-21",
+  "thema": "Tiere",
+  "datei": "quizzes/2026-11-21_tiere.json",
+  "fragen": [
+   "Wie nennt man ein junges Rind? Kalb",
+   "Wie viele Arme hat ein Oktopus? 8",
+   "Welches Tier hält Winterschlaf? Igel",
+   "Welcher Vogel kann nicht fliegen? Strauß",
+   "Welches dieser Tiere ist ein Insekt? Ameise",
+   "Wie viele Höcker hat ein Dromedar? 1",
+   "Welches dieser Tiere ist ein Fisch? Seepferdchen",
+   "Wie lange ist ein Elefant trächtig? ca. 22 Monate",
+   "Welches Tier hat blaues Blut? Pfeilschwanzkrebs",
+   "Welches Säugetier hat die meisten Halswirbel? Faultier"
+  ]
  }
 ]

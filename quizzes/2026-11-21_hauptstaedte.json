@@ -1,0 +1,106 @@
+{
+ "title": "HAUPTSTADT QUIZ",
+ "subtitle": "Nur 1 % schaffen Level 10",
+ "questions": [
+  {
+   "type": "text",
+   "q": "Was ist die Hauptstadt von Großbritannien?",
+   "options": [
+    "Manchester",
+    "London",
+    "Liverpool"
+   ],
+   "answer": 1
+  },
+  {
+   "type": "text",
+   "q": "Was ist die Hauptstadt von Griechenland?",
+   "options": [
+    "Thessaloniki",
+    "Sparta",
+    "Athen"
+   ],
+   "answer": 2
+  },
+  {
+   "type": "text",
+   "q": "Was ist die Hauptstadt von Russland?",
+   "options": [
+    "Sankt Petersburg",
+    "Moskau",
+    "Kiew"
+   ],
+   "answer": 1
+  },
+  {
+   "type": "text",
+   "q": "Was ist die Hauptstadt von Schweden?",
+   "options": [
+    "Stockholm",
+    "Göteborg",
+    "Malmö"
+   ],
+   "answer": 0
+  },
+  {
+   "type": "text",
+   "q": "Was ist die Hauptstadt von Polen?",
+   "options": [
+    "Krakau",
+    "Danzig",
+    "Warschau"
+   ],
+   "answer": 2
+  },
+  {
+   "type": "text",
+   "q": "Was ist die Hauptstadt von China?",
+   "options": [
+    "Peking",
+    "Shanghai",
+    "Hongkong"
+   ],
+   "answer": 0
+  },
+  {
+   "type": "text",
+   "q": "Was ist die Hauptstadt von Indien?",
+   "options": [
+    "Mumbai",
+    "Neu-Delhi",
+    "Kalkutta"
+   ],
+   "answer": 1
+  },
+  {
+   "type": "text",
+   "q": "Was ist die Hauptstadt von Kolumbien?",
+   "options": [
+    "Medellín",
+    "Cali",
+    "Bogotá"
+   ],
+   "answer": 2
+  },
+  {
+   "type": "text",
+   "q": "Was ist die Hauptstadt von Pakistan?",
+   "options": [
+    "Islamabad",
+    "Karatschi",
+    "Lahore"
+   ],
+   "answer": 0
+  },
+  {
+   "type": "text",
+   "q": "Was ist die Hauptstadt von Belize?",
+   "options": [
+    "Belize City",
+    "Belmopan",
+    "Orange Walk"
+   ],
+   "answer": 1
+  }
+ ]
+}

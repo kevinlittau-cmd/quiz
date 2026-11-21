@@ -1,0 +1,106 @@
+{
+ "title": "TIER QUIZ",
+ "subtitle": "Nur 1 % schaffen Level 10",
+ "questions": [
+  {
+   "type": "text",
+   "q": "Wie nennt man ein junges Rind?",
+   "options": [
+    "Fohlen",
+    "Kalb",
+    "Ferkel"
+   ],
+   "answer": 1
+  },
+  {
+   "type": "text",
+   "q": "Wie viele Arme hat ein Oktopus?",
+   "options": [
+    "6",
+    "10",
+    "8"
+   ],
+   "answer": 2
+  },
+  {
+   "type": "text",
+   "q": "Welches Tier hält Winterschlaf?",
+   "options": [
+    "Igel",
+    "Fuchs",
+    "Reh"
+   ],
+   "answer": 0
+  },
+  {
+   "type": "text",
+   "q": "Welcher Vogel kann nicht fliegen?",
+   "options": [
+    "Storch",
+    "Strauß",
+    "Adler"
+   ],
+   "answer": 1
+  },
+  {
+   "type": "text",
+   "q": "Welches dieser Tiere ist ein Insekt?",
+   "options": [
+    "Spinne",
+    "Skorpion",
+    "Ameise"
+   ],
+   "answer": 2
+  },
+  {
+   "type": "text",
+   "q": "Wie viele Höcker hat ein Dromedar?",
+   "options": [
+    "1",
+    "2",
+    "3"
+   ],
+   "answer": 0
+  },
+  {
+   "type": "text",
+   "q": "Welches dieser Tiere ist ein Fisch?",
+   "options": [
+    "Seestern",
+    "Seepferdchen",
+    "Qualle"
+   ],
+   "answer": 1
+  },
+  {
+   "type": "text",
+   "q": "Wie lange ist ein Elefant trächtig?",
+   "options": [
+    "9 Monate",
+    "14 Monate",
+    "ca. 22 Monate"
+   ],
+   "answer": 2
+  },
+  {
+   "type": "text",
+   "q": "Welches Tier hat blaues Blut?",
+   "options": [
+    "Pfeilschwanzkrebs",
+    "Hai",
+    "Frosch"
+   ],
+   "answer": 0
+  },
+  {
+   "type": "text",
+   "q": "Welches Säugetier hat die meisten Halswirbel?",
+   "options": [
+    "Giraffe",
+    "Faultier",
+    "Kamel"
+   ],
+   "answer": 1
+  }
+ ]
+}
