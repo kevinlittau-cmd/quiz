@@ -1,0 +1,106 @@
+{
+ "title": "AUTOMARKEN",
+ "subtitle": "Nur 1 % schaffen Level 10",
+ "questions": [
+  {
+   "type": "text",
+   "q": "Aus welchem Land kommt Fiat?",
+   "options": [
+    "Spanien",
+    "Italien",
+    "Frankreich"
+   ],
+   "answer": 1
+  },
+  {
+   "type": "text",
+   "q": "Aus welchem Land kommt Peugeot?",
+   "options": [
+    "Frankreich",
+    "Belgien",
+    "Italien"
+   ],
+   "answer": 0
+  },
+  {
+   "type": "text",
+   "q": "Aus welchem Land kommt Honda?",
+   "options": [
+    "China",
+    "Südkorea",
+    "Japan"
+   ],
+   "answer": 2
+  },
+  {
+   "type": "text",
+   "q": "Welche Marke baut den Käfer?",
+   "options": [
+    "Opel",
+    "Volkswagen",
+    "Ford"
+   ],
+   "answer": 1
+  },
+  {
+   "type": "text",
+   "q": "Aus welchem Land kommt Tesla?",
+   "options": [
+    "USA",
+    "Kanada",
+    "Schweden"
+   ],
+   "answer": 0
+  },
+  {
+   "type": "text",
+   "q": "Welche Marke baut den Corsa?",
+   "options": [
+    "Fiat",
+    "Opel",
+    "Seat"
+   ],
+   "answer": 1
+  },
+  {
+   "type": "text",
+   "q": "Aus welchem Land stammt Jaguar?",
+   "options": [
+    "Großbritannien",
+    "USA",
+    "Australien"
+   ],
+   "answer": 0
+  },
+  {
+   "type": "text",
+   "q": "Zu welchem Konzern gehört Lamborghini?",
+   "options": [
+    "Ferrari",
+    "Fiat",
+    "Volkswagen"
+   ],
+   "answer": 2
+  },
+  {
+   "type": "text",
+   "q": "Wo hat BMW seinen Hauptsitz?",
+   "options": [
+    "Stuttgart",
+    "München",
+    "Ingolstadt"
+   ],
+   "answer": 1
+  },
+  {
+   "type": "text",
+   "q": "Aus welchem Land kommt Tata Motors?",
+   "options": [
+    "Indien",
+    "Pakistan",
+    "Malaysia"
+   ],
+   "answer": 0
+  }
+ ]
+}

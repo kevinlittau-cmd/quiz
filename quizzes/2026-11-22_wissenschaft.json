@@ -1,0 +1,106 @@
+{
+ "title": "WISSENSCHAFT QUIZ",
+ "subtitle": "Nur 1 % schaffen Level 10",
+ "questions": [
+  {
+   "type": "text",
+   "q": "Welcher Stern ist der Erde am nächsten?",
+   "options": [
+    "Mond",
+    "Sonne",
+    "Polarstern"
+   ],
+   "answer": 1
+  },
+  {
+   "type": "text",
+   "q": "Was ist das chemische Zeichen für Sauerstoff?",
+   "options": [
+    "O",
+    "S",
+    "Sa"
+   ],
+   "answer": 0
+  },
+  {
+   "type": "text",
+   "q": "Mit welchem Organ atmen wir?",
+   "options": [
+    "Leber",
+    "Niere",
+    "Lunge"
+   ],
+   "answer": 2
+  },
+  {
+   "type": "text",
+   "q": "In welcher Einheit misst man elektrische Spannung?",
+   "options": [
+    "Volt",
+    "Watt",
+    "Ampere"
+   ],
+   "answer": 0
+  },
+  {
+   "type": "text",
+   "q": "Welcher Planet hat die auffälligsten Ringe?",
+   "options": [
+    "Mars",
+    "Venus",
+    "Saturn"
+   ],
+   "answer": 2
+  },
+  {
+   "type": "text",
+   "q": "Welches Element hat das Zeichen Na?",
+   "options": [
+    "Natrium",
+    "Neon",
+    "Nickel"
+   ],
+   "answer": 0
+  },
+  {
+   "type": "text",
+   "q": "Wie lange braucht Sonnenlicht bis zur Erde?",
+   "options": [
+    "ca. 8 Minuten",
+    "ca. 8 Sekunden",
+    "ca. 8 Stunden"
+   ],
+   "answer": 0
+  },
+  {
+   "type": "text",
+   "q": "Welches Element ist im Universum am häufigsten?",
+   "options": [
+    "Helium",
+    "Sauerstoff",
+    "Wasserstoff"
+   ],
+   "answer": 2
+  },
+  {
+   "type": "text",
+   "q": "Welche Blutgruppe gilt als Universalspender?",
+   "options": [
+    "AB positiv",
+    "0 negativ",
+    "A negativ"
+   ],
+   "answer": 1
+  },
+  {
+   "type": "text",
+   "q": "Welches Metall leitet Strom am besten?",
+   "options": [
+    "Kupfer",
+    "Gold",
+    "Silber"
+   ],
+   "answer": 2
+  }
+ ]
+}

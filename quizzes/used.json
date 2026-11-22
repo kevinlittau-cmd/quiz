@@ -457,5 +457,39 @@
    "Welches Tier hat blaues Blut? Pfeilschwanzkrebs",
    "Welches Säugetier hat die meisten Halswirbel? Faultier"
   ]
+ },
+ {
+  "datum": "2026-11-22",
+  "thema": "Wissenschaft",
+  "datei": "quizzes/2026-11-22_wissenschaft.json",
+  "fragen": [
+   "Welcher Stern ist der Erde am nächsten? Sonne",
+   "Was ist das chemische Zeichen für Sauerstoff? O",
+   "Mit welchem Organ atmen wir? Lunge",
+   "In welcher Einheit misst man elektrische Spannung? Volt",
+   "Welcher Planet hat die auffälligsten Ringe? Saturn",
+   "Welches Element hat das Zeichen Na? Natrium",
+   "Wie lange braucht Sonnenlicht bis zur Erde? ca. 8 Minuten",
+   "Welches Element ist im Universum am häufigsten? Wasserstoff",
+   "Welche Blutgruppe gilt als Universalspender? 0 negativ",
+   "Welches Metall leitet Strom am besten? Silber"
+  ]
+ },
+ {
+  "datum": "2026-11-22",
+  "thema": "Automarken",
+  "datei": "quizzes/2026-11-22_automarken.json",
+  "fragen": [
+   "Aus welchem Land kommt Fiat? Italien",
+   "Aus welchem Land kommt Peugeot? Frankreich",
+   "Aus welchem Land kommt Honda? Japan",
+   "Welche Marke baut den Käfer? Volkswagen",
+   "Aus welchem Land kommt Tesla? USA",
+   "Welche Marke baut den Corsa? Opel",
+   "Aus welchem Land stammt Jaguar? Großbritannien",
+   "Zu welchem Konzern gehört Lamborghini? Volkswagen",
+   "Wo hat BMW seinen Hauptsitz? München",
+   "Aus welchem Land kommt Tata Motors? Indien"
+  ]
  }
 ]
