@@ -491,5 +491,39 @@
    "Wo hat BMW seinen Hauptsitz? München",
    "Aus welchem Land kommt Tata Motors? Indien"
   ]
+ },
+ {
+  "datum": "2026-11-23",
+  "thema": "Deutschland",
+  "datei": "quizzes/2026-11-23_deutschland.json",
+  "fragen": [
+   "In welcher Stadt steht das Brandenburger Tor? Berlin",
+   "Welche Stadt ist für das Oktoberfest bekannt? München",
+   "An welchem Fluss liegt Dresden? Elbe",
+   "In welchem Bundesland liegt Heidelberg? Baden-Württemberg",
+   "Welches Bundesland ist flächenmäßig am größten? Bayern",
+   "Was ist die Hauptstadt von Hessen? Wiesbaden",
+   "Welche Stadt war bis 1990 Hauptstadt der BRD? Bonn",
+   "Was ist die Hauptstadt von Mecklenburg-Vorpommern? Schwerin",
+   "In welchem Gebirge liegt der Brocken? Harz",
+   "Wo sitzt das Bundesverfassungsgericht? Karlsruhe"
+  ]
+ },
+ {
+  "datum": "2026-11-23",
+  "thema": "Sprachen",
+  "datei": "quizzes/2026-11-23_sprachen.json",
+  "fragen": [
+   "Was heißt Katze auf Englisch? Cat",
+   "Was heißt Hallo auf Spanisch? Hola",
+   "Was heißt Apfel auf Französisch? Pomme",
+   "Was heißt Guten Morgen auf Italienisch? Buongiorno",
+   "Was heißt Sonne auf Spanisch? Sol",
+   "Was heißt Milch auf Niederländisch? Melk",
+   "Was heißt Nein auf Tschechisch? Ne",
+   "Was heißt Ja auf Griechisch? Nai",
+   "Was heißt Mond auf Latein? Luna",
+   "Was heißt Bitte auf Polnisch? Proszę"
+  ]
  }
 ]

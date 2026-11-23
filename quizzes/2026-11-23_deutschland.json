@@ -1,0 +1,106 @@
+{
+ "title": "DEUTSCHLAND QUIZ",
+ "subtitle": "Nur 1 % schaffen Level 10",
+ "questions": [
+  {
+   "type": "text",
+   "q": "In welcher Stadt steht das Brandenburger Tor?",
+   "options": [
+    "Potsdam",
+    "Berlin",
+    "Hamburg"
+   ],
+   "answer": 1
+  },
+  {
+   "type": "text",
+   "q": "Welche Stadt ist für das Oktoberfest bekannt?",
+   "options": [
+    "München",
+    "Nürnberg",
+    "Stuttgart"
+   ],
+   "answer": 0
+  },
+  {
+   "type": "text",
+   "q": "An welchem Fluss liegt Dresden?",
+   "options": [
+    "Oder",
+    "Saale",
+    "Elbe"
+   ],
+   "answer": 2
+  },
+  {
+   "type": "text",
+   "q": "In welchem Bundesland liegt Heidelberg?",
+   "options": [
+    "Baden-Württemberg",
+    "Hessen",
+    "Bayern"
+   ],
+   "answer": 0
+  },
+  {
+   "type": "text",
+   "q": "Welches Bundesland ist flächenmäßig am größten?",
+   "options": [
+    "Niedersachsen",
+    "Bayern",
+    "Nordrhein-Westfalen"
+   ],
+   "answer": 1
+  },
+  {
+   "type": "text",
+   "q": "Was ist die Hauptstadt von Hessen?",
+   "options": [
+    "Frankfurt am Main",
+    "Kassel",
+    "Wiesbaden"
+   ],
+   "answer": 2
+  },
+  {
+   "type": "text",
+   "q": "Welche Stadt war bis 1990 Hauptstadt der BRD?",
+   "options": [
+    "Bonn",
+    "Köln",
+    "Frankfurt am Main"
+   ],
+   "answer": 0
+  },
+  {
+   "type": "text",
+   "q": "Was ist die Hauptstadt von Mecklenburg-Vorpommern?",
+   "options": [
+    "Rostock",
+    "Schwerin",
+    "Greifswald"
+   ],
+   "answer": 1
+  },
+  {
+   "type": "text",
+   "q": "In welchem Gebirge liegt der Brocken?",
+   "options": [
+    "Erzgebirge",
+    "Thüringer Wald",
+    "Harz"
+   ],
+   "answer": 2
+  },
+  {
+   "type": "text",
+   "q": "Wo sitzt das Bundesverfassungsgericht?",
+   "options": [
+    "Leipzig",
+    "Karlsruhe",
+    "Bonn"
+   ],
+   "answer": 1
+  }
+ ]
+}

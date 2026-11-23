@@ -1,0 +1,106 @@
+{
+ "title": "SPRACHEN QUIZ",
+ "subtitle": "Nur 1 % schaffen Level 10",
+ "questions": [
+  {
+   "type": "text",
+   "q": "Was heißt Katze auf Englisch?",
+   "options": [
+    "Dog",
+    "Cat",
+    "Mouse"
+   ],
+   "answer": 1
+  },
+  {
+   "type": "text",
+   "q": "Was heißt Hallo auf Spanisch?",
+   "options": [
+    "Hola",
+    "Ciao",
+    "Salut"
+   ],
+   "answer": 0
+  },
+  {
+   "type": "text",
+   "q": "Was heißt Apfel auf Französisch?",
+   "options": [
+    "Poire",
+    "Pain",
+    "Pomme"
+   ],
+   "answer": 2
+  },
+  {
+   "type": "text",
+   "q": "Was heißt Guten Morgen auf Italienisch?",
+   "options": [
+    "Buongiorno",
+    "Buenos días",
+    "Bonjour"
+   ],
+   "answer": 0
+  },
+  {
+   "type": "text",
+   "q": "Was heißt Sonne auf Spanisch?",
+   "options": [
+    "Luna",
+    "Sol",
+    "Mar"
+   ],
+   "answer": 1
+  },
+  {
+   "type": "text",
+   "q": "Was heißt Milch auf Niederländisch?",
+   "options": [
+    "Mjölk",
+    "Milk",
+    "Melk"
+   ],
+   "answer": 2
+  },
+  {
+   "type": "text",
+   "q": "Was heißt Nein auf Tschechisch?",
+   "options": [
+    "Ne",
+    "Nie",
+    "Nej"
+   ],
+   "answer": 0
+  },
+  {
+   "type": "text",
+   "q": "Was heißt Ja auf Griechisch?",
+   "options": [
+    "Ochi",
+    "Nai",
+    "Da"
+   ],
+   "answer": 1
+  },
+  {
+   "type": "text",
+   "q": "Was heißt Mond auf Latein?",
+   "options": [
+    "Stella",
+    "Terra",
+    "Luna"
+   ],
+   "answer": 2
+  },
+  {
+   "type": "text",
+   "q": "Was heißt Bitte auf Polnisch?",
+   "options": [
+    "Dziękuję",
+    "Proszę",
+    "Cześć"
+   ],
+   "answer": 1
+  }
+ ]
+}
