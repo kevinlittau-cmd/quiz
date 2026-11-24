@@ -525,5 +525,39 @@
    "Was heißt Mond auf Latein? Luna",
    "Was heißt Bitte auf Polnisch? Proszę"
   ]
+ },
+ {
+  "datum": "2026-11-24",
+  "thema": "Geografie",
+  "datei": "quizzes/2026-11-24_geografie.json",
+  "fragen": [
+   "Welcher ist der kälteste Kontinent? Antarktis",
+   "Welcher Ozean liegt zwischen Europa und Amerika? Atlantik",
+   "In welchem Land liegt der Vulkan Vesuv? Italien",
+   "Welcher Fluss fließt durch Rom? Tiber",
+   "In welchem Land liegt Machu Picchu? Peru",
+   "Welches ist die größte Insel der Welt? Grönland",
+   "Welche Meerenge trennt Europa und Afrika? Straße von Gibraltar",
+   "Welcher Kleinstaat liegt in den Pyrenäen? Andorra",
+   "Wo liegt der tiefste Punkt an Land? Totes Meer",
+   "Welcher ist der höchste Berg Südamerikas? Aconcagua"
+  ]
+ },
+ {
+  "datum": "2026-11-24",
+  "thema": "Essen und Länder",
+  "datei": "quizzes/2026-11-24_essen.json",
+  "fragen": [
+   "Aus welchem Land stammen Tapas? Spanien",
+   "Aus welchem Land stammt Risotto? Italien",
+   "Aus welchem Land stammt das Wiener Schnitzel? Österreich",
+   "Aus welchem Land kommt Fish and Chips? Großbritannien",
+   "Aus welchem Land stammt Ratatouille? Frankreich",
+   "Aus welchem Land stammt Teriyaki? Japan",
+   "Aus welchem Land stammt Rösti? Schweiz",
+   "Aus welchem Land stammen Stroopwafels? Niederlande",
+   "Aus welchem Land stammt Nasi Goreng? Indonesien",
+   "Aus welchem Land stammt Bobotie? Südafrika"
+  ]
  }
 ]

@@ -1,0 +1,106 @@
+{
+ "title": "GEOGRAFIE QUIZ",
+ "subtitle": "Nur 1 % schaffen Level 10",
+ "questions": [
+  {
+   "type": "text",
+   "q": "Welcher ist der kälteste Kontinent?",
+   "options": [
+    "Antarktis",
+    "Asien",
+    "Europa"
+   ],
+   "answer": 0
+  },
+  {
+   "type": "text",
+   "q": "Welcher Ozean liegt zwischen Europa und Amerika?",
+   "options": [
+    "Pazifik",
+    "Atlantik",
+    "Indischer Ozean"
+   ],
+   "answer": 1
+  },
+  {
+   "type": "text",
+   "q": "In welchem Land liegt der Vulkan Vesuv?",
+   "options": [
+    "Griechenland",
+    "Spanien",
+    "Italien"
+   ],
+   "answer": 2
+  },
+  {
+   "type": "text",
+   "q": "Welcher Fluss fließt durch Rom?",
+   "options": [
+    "Tiber",
+    "Po",
+    "Arno"
+   ],
+   "answer": 0
+  },
+  {
+   "type": "text",
+   "q": "In welchem Land liegt Machu Picchu?",
+   "options": [
+    "Bolivien",
+    "Chile",
+    "Peru"
+   ],
+   "answer": 2
+  },
+  {
+   "type": "text",
+   "q": "Welches ist die größte Insel der Welt?",
+   "options": [
+    "Madagaskar",
+    "Grönland",
+    "Borneo"
+   ],
+   "answer": 1
+  },
+  {
+   "type": "text",
+   "q": "Welche Meerenge trennt Europa und Afrika?",
+   "options": [
+    "Straße von Gibraltar",
+    "Bosporus",
+    "Ärmelkanal"
+   ],
+   "answer": 0
+  },
+  {
+   "type": "text",
+   "q": "Welcher Kleinstaat liegt in den Pyrenäen?",
+   "options": [
+    "Monaco",
+    "San Marino",
+    "Andorra"
+   ],
+   "answer": 2
+  },
+  {
+   "type": "text",
+   "q": "Wo liegt der tiefste Punkt an Land?",
+   "options": [
+    "Death Valley",
+    "Totes Meer",
+    "Kaspisches Meer"
+   ],
+   "answer": 1
+  },
+  {
+   "type": "text",
+   "q": "Welcher ist der höchste Berg Südamerikas?",
+   "options": [
+    "Aconcagua",
+    "Chimborazo",
+    "Huascarán"
+   ],
+   "answer": 0
+  }
+ ]
+}

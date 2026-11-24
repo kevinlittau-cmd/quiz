@@ -1,0 +1,106 @@
+{
+ "title": "ESSEN UND LÄNDER",
+ "subtitle": "Nur 1 % schaffen Level 10",
+ "questions": [
+  {
+   "type": "text",
+   "q": "Aus welchem Land stammen Tapas?",
+   "options": [
+    "Mexiko",
+    "Spanien",
+    "Italien"
+   ],
+   "answer": 1
+  },
+  {
+   "type": "text",
+   "q": "Aus welchem Land stammt Risotto?",
+   "options": [
+    "Italien",
+    "Frankreich",
+    "Spanien"
+   ],
+   "answer": 0
+  },
+  {
+   "type": "text",
+   "q": "Aus welchem Land stammt das Wiener Schnitzel?",
+   "options": [
+    "Deutschland",
+    "Schweiz",
+    "Österreich"
+   ],
+   "answer": 2
+  },
+  {
+   "type": "text",
+   "q": "Aus welchem Land kommt Fish and Chips?",
+   "options": [
+    "Großbritannien",
+    "Irland",
+    "USA"
+   ],
+   "answer": 0
+  },
+  {
+   "type": "text",
+   "q": "Aus welchem Land stammt Ratatouille?",
+   "options": [
+    "Italien",
+    "Frankreich",
+    "Spanien"
+   ],
+   "answer": 1
+  },
+  {
+   "type": "text",
+   "q": "Aus welchem Land stammt Teriyaki?",
+   "options": [
+    "China",
+    "Korea",
+    "Japan"
+   ],
+   "answer": 2
+  },
+  {
+   "type": "text",
+   "q": "Aus welchem Land stammt Rösti?",
+   "options": [
+    "Schweiz",
+    "Österreich",
+    "Deutschland"
+   ],
+   "answer": 0
+  },
+  {
+   "type": "text",
+   "q": "Aus welchem Land stammen Stroopwafels?",
+   "options": [
+    "Belgien",
+    "Niederlande",
+    "Dänemark"
+   ],
+   "answer": 1
+  },
+  {
+   "type": "text",
+   "q": "Aus welchem Land stammt Nasi Goreng?",
+   "options": [
+    "Indien",
+    "Japan",
+    "Indonesien"
+   ],
+   "answer": 2
+  },
+  {
+   "type": "text",
+   "q": "Aus welchem Land stammt Bobotie?",
+   "options": [
+    "Kenia",
+    "Südafrika",
+    "Nigeria"
+   ],
+   "answer": 1
+  }
+ ]
+}
