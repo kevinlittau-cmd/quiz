@@ -1,0 +1,106 @@
+{
+ "title": "SPORT REGELN",
+ "subtitle": "Nur 1 % schaffen Level 10",
+ "questions": [
+  {
+   "type": "text",
+   "q": "Wie viele Ringe hat das Olympia Symbol?",
+   "options": [
+    "5",
+    "4",
+    "6"
+   ],
+   "answer": 0
+  },
+  {
+   "type": "text",
+   "q": "Wie weit ist der Elfmeterpunkt vom Tor?",
+   "options": [
+    "9 Meter",
+    "11 Meter",
+    "16 Meter"
+   ],
+   "answer": 1
+  },
+  {
+   "type": "text",
+   "q": "Wie viele Punkte zählt ein Freiwurf im Basketball?",
+   "options": [
+    "2",
+    "3",
+    "1"
+   ],
+   "answer": 2
+  },
+  {
+   "type": "text",
+   "q": "Was folgt im Fußball auf die zweite Gelbe Karte?",
+   "options": [
+    "Gelb-Rot",
+    "Strafstoß",
+    "Nichts"
+   ],
+   "answer": 0
+  },
+  {
+   "type": "text",
+   "q": "Wie lange dauert ein Drittel im Eishockey?",
+   "options": [
+    "15 Minuten",
+    "20 Minuten",
+    "30 Minuten"
+   ],
+   "answer": 1
+  },
+  {
+   "type": "text",
+   "q": "Hallenvolleyball: Wie viele Gewinnsätze?",
+   "options": [
+    "2",
+    "4",
+    "3"
+   ],
+   "answer": 2
+  },
+  {
+   "type": "text",
+   "q": "Bis wie viele Punkte geht ein Satz im Badminton?",
+   "options": [
+    "21",
+    "15",
+    "25"
+   ],
+   "answer": 0
+  },
+  {
+   "type": "text",
+   "q": "Wie viele Spieler hat ein Wasserballteam im Wasser?",
+   "options": [
+    "6",
+    "8",
+    "7"
+   ],
+   "answer": 2
+  },
+  {
+   "type": "text",
+   "q": "Snooker: Wie viele rote Kugeln zu Beginn?",
+   "options": [
+    "15",
+    "10",
+    "21"
+   ],
+   "answer": 0
+  },
+  {
+   "type": "text",
+   "q": "American Football: Punkte für eine Safety?",
+   "options": [
+    "1",
+    "2",
+    "3"
+   ],
+   "answer": 1
+  }
+ ]
+}

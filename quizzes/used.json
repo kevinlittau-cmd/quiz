@@ -559,5 +559,39 @@
    "Aus welchem Land stammt Nasi Goreng? Indonesien",
    "Aus welchem Land stammt Bobotie? Südafrika"
   ]
+ },
+ {
+  "datum": "2026-11-25",
+  "thema": "Allgemeinwissen",
+  "datei": "quizzes/2026-11-25_allgemeinwissen.json",
+  "fragen": [
+   "Wie viele Beine hat eine Spinne? 8",
+   "Wie viele Stunden hat ein Tag? 24",
+   "Welcher Monat ist der kürzeste? Februar",
+   "Wie viele Zentimeter hat ein Meter? 100",
+   "Wie viel Grad hat ein rechter Winkel? 90",
+   "Wer schrieb „Faust“? Goethe",
+   "Welche Währung hat Großbritannien? Pfund",
+   "Wer komponierte „Die vier Jahreszeiten“? Vivaldi",
+   "Wie viele Sinfonien schrieb Beethoven? 9",
+   "Welche römische Zahl steht für 500? D"
+  ]
+ },
+ {
+  "datum": "2026-11-25",
+  "thema": "Sport Regeln",
+  "datei": "quizzes/2026-11-25_sport.json",
+  "fragen": [
+   "Wie viele Ringe hat das Olympia Symbol? 5",
+   "Wie weit ist der Elfmeterpunkt vom Tor? 11 Meter",
+   "Wie viele Punkte zählt ein Freiwurf im Basketball? 1",
+   "Was folgt im Fußball auf die zweite Gelbe Karte? Gelb-Rot",
+   "Wie lange dauert ein Drittel im Eishockey? 20 Minuten",
+   "Hallenvolleyball: Wie viele Gewinnsätze? 3",
+   "Bis wie viele Punkte geht ein Satz im Badminton? 21",
+   "Wie viele Spieler hat ein Wasserballteam im Wasser? 7",
+   "Snooker: Wie viele rote Kugeln zu Beginn? 15",
+   "American Football: Punkte für eine Safety? 2"
+  ]
  }
 ]

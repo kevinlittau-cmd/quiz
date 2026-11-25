@@ -1,0 +1,106 @@
+{
+ "title": "ALLGEMEINWISSEN",
+ "subtitle": "Nur 1 % schaffen Level 10",
+ "questions": [
+  {
+   "type": "text",
+   "q": "Wie viele Beine hat eine Spinne?",
+   "options": [
+    "6",
+    "8",
+    "10"
+   ],
+   "answer": 1
+  },
+  {
+   "type": "text",
+   "q": "Wie viele Stunden hat ein Tag?",
+   "options": [
+    "24",
+    "12",
+    "48"
+   ],
+   "answer": 0
+  },
+  {
+   "type": "text",
+   "q": "Welcher Monat ist der kürzeste?",
+   "options": [
+    "April",
+    "November",
+    "Februar"
+   ],
+   "answer": 2
+  },
+  {
+   "type": "text",
+   "q": "Wie viele Zentimeter hat ein Meter?",
+   "options": [
+    "10",
+    "1000",
+    "100"
+   ],
+   "answer": 2
+  },
+  {
+   "type": "text",
+   "q": "Wie viel Grad hat ein rechter Winkel?",
+   "options": [
+    "90",
+    "180",
+    "45"
+   ],
+   "answer": 0
+  },
+  {
+   "type": "text",
+   "q": "Wer schrieb „Faust“?",
+   "options": [
+    "Schiller",
+    "Goethe",
+    "Lessing"
+   ],
+   "answer": 1
+  },
+  {
+   "type": "text",
+   "q": "Welche Währung hat Großbritannien?",
+   "options": [
+    "Pfund",
+    "Euro",
+    "Krone"
+   ],
+   "answer": 0
+  },
+  {
+   "type": "text",
+   "q": "Wer komponierte „Die vier Jahreszeiten“?",
+   "options": [
+    "Bach",
+    "Händel",
+    "Vivaldi"
+   ],
+   "answer": 2
+  },
+  {
+   "type": "text",
+   "q": "Wie viele Sinfonien schrieb Beethoven?",
+   "options": [
+    "7",
+    "9",
+    "11"
+   ],
+   "answer": 1
+  },
+  {
+   "type": "text",
+   "q": "Welche römische Zahl steht für 500?",
+   "options": [
+    "L",
+    "M",
+    "D"
+   ],
+   "answer": 2
+  }
+ ]
+}
