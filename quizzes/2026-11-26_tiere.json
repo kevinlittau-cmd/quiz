@@ -1,0 +1,106 @@
+{
+ "title": "TIERWISSEN QUIZ",
+ "subtitle": "Nur 1 % schaffen Level 10",
+ "questions": [
+  {
+   "type": "text",
+   "q": "Wie nennt man einen jungen Hund?",
+   "options": [
+    "Fohlen",
+    "Welpe",
+    "Kitz"
+   ],
+   "answer": 1
+  },
+  {
+   "type": "text",
+   "q": "Welches Tier hat einen Rüssel?",
+   "options": [
+    "Elefant",
+    "Nashorn",
+    "Nilpferd"
+   ],
+   "answer": 0
+  },
+  {
+   "type": "text",
+   "q": "Wie heißt das männliche Schwein?",
+   "options": [
+    "Bulle",
+    "Hengst",
+    "Eber"
+   ],
+   "answer": 2
+  },
+  {
+   "type": "text",
+   "q": "Wo leben Eisbären in freier Natur?",
+   "options": [
+    "Antarktis",
+    "Arktis",
+    "Alpen"
+   ],
+   "answer": 1
+  },
+  {
+   "type": "text",
+   "q": "Was ist ein Wal?",
+   "options": [
+    "Säugetier",
+    "Fisch",
+    "Amphibie"
+   ],
+   "answer": 0
+  },
+  {
+   "type": "text",
+   "q": "Wie heißt die Larve des Frosches?",
+   "options": [
+    "Raupe",
+    "Made",
+    "Kaulquappe"
+   ],
+   "answer": 2
+  },
+  {
+   "type": "text",
+   "q": "Wie viele Flügel hat eine Honigbiene?",
+   "options": [
+    "2",
+    "4",
+    "6"
+   ],
+   "answer": 1
+  },
+  {
+   "type": "text",
+   "q": "Welches dieser Tiere ist ein Nagetier?",
+   "options": [
+    "Hase",
+    "Maulwurf",
+    "Biber"
+   ],
+   "answer": 2
+  },
+  {
+   "type": "text",
+   "q": "Wie viele Augen hat eine Honigbiene?",
+   "options": [
+    "5",
+    "2",
+    "8"
+   ],
+   "answer": 0
+  },
+  {
+   "type": "text",
+   "q": "Welches Tier ist eng mit dem Elefanten verwandt?",
+   "options": [
+    "Nashorn",
+    "Klippschliefer",
+    "Tapir"
+   ],
+   "answer": 1
+  }
+ ]
+}

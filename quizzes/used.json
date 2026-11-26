@@ -593,5 +593,39 @@
    "Snooker: Wie viele rote Kugeln zu Beginn? 15",
    "American Football: Punkte für eine Safety? 2"
   ]
+ },
+ {
+  "datum": "2026-11-26",
+  "thema": "Hauptstädte",
+  "datei": "quizzes/2026-11-26_hauptstaedte.json",
+  "fragen": [
+   "Was ist die Hauptstadt von Irland? Dublin",
+   "Was ist die Hauptstadt von Tschechien? Prag",
+   "Was ist die Hauptstadt von Dänemark? Kopenhagen",
+   "Was ist die Hauptstadt von Ungarn? Budapest",
+   "Was ist die Hauptstadt von Südkorea? Seoul",
+   "Was ist die Hauptstadt von Kenia? Nairobi",
+   "Was ist die Hauptstadt von Kroatien? Zagreb",
+   "Was ist die Hauptstadt von Slowenien? Ljubljana",
+   "Was ist die Hauptstadt von Kirgisistan? Bischkek",
+   "Was ist die Hauptstadt von Tansania? Dodoma"
+  ]
+ },
+ {
+  "datum": "2026-11-26",
+  "thema": "Tiere",
+  "datei": "quizzes/2026-11-26_tiere.json",
+  "fragen": [
+   "Wie nennt man einen jungen Hund? Welpe",
+   "Welches Tier hat einen Rüssel? Elefant",
+   "Wie heißt das männliche Schwein? Eber",
+   "Wo leben Eisbären in freier Natur? Arktis",
+   "Was ist ein Wal? Säugetier",
+   "Wie heißt die Larve des Frosches? Kaulquappe",
+   "Wie viele Flügel hat eine Honigbiene? 4",
+   "Welches dieser Tiere ist ein Nagetier? Biber",
+   "Wie viele Augen hat eine Honigbiene? 5",
+   "Welches Tier ist eng mit dem Elefanten verwandt? Klippschliefer"
+  ]
  }
 ]

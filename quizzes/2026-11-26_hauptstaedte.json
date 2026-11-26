@@ -1,0 +1,106 @@
+{
+ "title": "ERRATE DIE HAUPTSTADT",
+ "subtitle": "Nur 1 % schaffen Level 10",
+ "questions": [
+  {
+   "type": "text",
+   "q": "Was ist die Hauptstadt von Irland?",
+   "options": [
+    "Belfast",
+    "Dublin",
+    "Cork"
+   ],
+   "answer": 1
+  },
+  {
+   "type": "text",
+   "q": "Was ist die Hauptstadt von Tschechien?",
+   "options": [
+    "Prag",
+    "Brünn",
+    "Pilsen"
+   ],
+   "answer": 0
+  },
+  {
+   "type": "text",
+   "q": "Was ist die Hauptstadt von Dänemark?",
+   "options": [
+    "Aarhus",
+    "Odense",
+    "Kopenhagen"
+   ],
+   "answer": 2
+  },
+  {
+   "type": "text",
+   "q": "Was ist die Hauptstadt von Ungarn?",
+   "options": [
+    "Bukarest",
+    "Budapest",
+    "Debrecen"
+   ],
+   "answer": 1
+  },
+  {
+   "type": "text",
+   "q": "Was ist die Hauptstadt von Südkorea?",
+   "options": [
+    "Seoul",
+    "Busan",
+    "Pjöngjang"
+   ],
+   "answer": 0
+  },
+  {
+   "type": "text",
+   "q": "Was ist die Hauptstadt von Kenia?",
+   "options": [
+    "Mombasa",
+    "Kampala",
+    "Nairobi"
+   ],
+   "answer": 2
+  },
+  {
+   "type": "text",
+   "q": "Was ist die Hauptstadt von Kroatien?",
+   "options": [
+    "Split",
+    "Zagreb",
+    "Sarajevo"
+   ],
+   "answer": 1
+  },
+  {
+   "type": "text",
+   "q": "Was ist die Hauptstadt von Slowenien?",
+   "options": [
+    "Ljubljana",
+    "Bratislava",
+    "Maribor"
+   ],
+   "answer": 0
+  },
+  {
+   "type": "text",
+   "q": "Was ist die Hauptstadt von Kirgisistan?",
+   "options": [
+    "Taschkent",
+    "Almaty",
+    "Bischkek"
+   ],
+   "answer": 2
+  },
+  {
+   "type": "text",
+   "q": "Was ist die Hauptstadt von Tansania?",
+   "options": [
+    "Daressalam",
+    "Dodoma",
+    "Arusha"
+   ],
+   "answer": 1
+  }
+ ]
+}
