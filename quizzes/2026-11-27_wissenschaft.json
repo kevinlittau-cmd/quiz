@@ -1,0 +1,106 @@
+{
+ "title": "WISSENSCHAFT QUIZ",
+ "subtitle": "Nur 1 % schaffen Level 10",
+ "questions": [
+  {
+   "type": "text",
+   "q": "Was zieht ein Magnet an?",
+   "options": [
+    "Holz",
+    "Eisen",
+    "Glas"
+   ],
+   "answer": 1
+  },
+  {
+   "type": "text",
+   "q": "Welcher Planet ist am weitesten von der Sonne entfernt?",
+   "options": [
+    "Uranus",
+    "Pluto",
+    "Neptun"
+   ],
+   "answer": 2
+  },
+  {
+   "type": "text",
+   "q": "Was ist das größte Organ des Menschen?",
+   "options": [
+    "Haut",
+    "Leber",
+    "Lunge"
+   ],
+   "answer": 0
+  },
+  {
+   "type": "text",
+   "q": "Wie viele Zähne hat ein vollständiges Erwachsenengebiss?",
+   "options": [
+    "28",
+    "36",
+    "32"
+   ],
+   "answer": 2
+  },
+  {
+   "type": "text",
+   "q": "Was misst ein Barometer?",
+   "options": [
+    "Temperatur",
+    "Luftdruck",
+    "Luftfeuchte"
+   ],
+   "answer": 1
+  },
+  {
+   "type": "text",
+   "q": "Wie heißt der kleinste Knochen des Menschen?",
+   "options": [
+    "Steigbügel",
+    "Amboss",
+    "Hammer"
+   ],
+   "answer": 0
+  },
+  {
+   "type": "text",
+   "q": "Welches Element hat das chemische Zeichen Ag?",
+   "options": [
+    "Gold",
+    "Argon",
+    "Silber"
+   ],
+   "answer": 2
+  },
+  {
+   "type": "text",
+   "q": "Wie schnell ist Licht ungefähr?",
+   "options": [
+    "300.000 km/s",
+    "30.000 km/s",
+    "3 Mio. km/s"
+   ],
+   "answer": 0
+  },
+  {
+   "type": "text",
+   "q": "In welcher Einheit misst man Kraft?",
+   "options": [
+    "Joule",
+    "Newton",
+    "Pascal"
+   ],
+   "answer": 1
+  },
+  {
+   "type": "text",
+   "q": "Welches Element hat das chemische Zeichen Sn?",
+   "options": [
+    "Selen",
+    "Schwefel",
+    "Zinn"
+   ],
+   "answer": 2
+  }
+ ]
+}

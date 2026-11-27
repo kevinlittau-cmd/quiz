@@ -1,0 +1,106 @@
+{
+ "title": "FILM QUIZ",
+ "subtitle": "Nur 1 % schaffen Level 10",
+ "questions": [
+  {
+   "type": "text",
+   "q": "Wie heißt der Hund von Micky Maus?",
+   "options": [
+    "Pluto",
+    "Goofy",
+    "Bello"
+   ],
+   "answer": 0
+  },
+  {
+   "type": "text",
+   "q": "Was für ein Tier ist Pumbaa in „Der König der Löwen“?",
+   "options": [
+    "Erdmännchen",
+    "Warzenschwein",
+    "Nashorn"
+   ],
+   "answer": 1
+  },
+  {
+   "type": "text",
+   "q": "Welche Farbe hat das Lichtschwert von Darth Vader?",
+   "options": [
+    "Blau",
+    "Grün",
+    "Rot"
+   ],
+   "answer": 2
+  },
+  {
+   "type": "text",
+   "q": "Wie heißt der Löwe in „Madagascar“?",
+   "options": [
+    "Marty",
+    "Alex",
+    "Melman"
+   ],
+   "answer": 1
+  },
+  {
+   "type": "text",
+   "q": "Welcher Zauberer begleitet Frodo in „Der Herr der Ringe“?",
+   "options": [
+    "Gandalf",
+    "Merlin",
+    "Dumbledore"
+   ],
+   "answer": 0
+  },
+  {
+   "type": "text",
+   "q": "Wie heißt die Eule von Harry Potter?",
+   "options": [
+    "Krätze",
+    "Fawkes",
+    "Hedwig"
+   ],
+   "answer": 2
+  },
+  {
+   "type": "text",
+   "q": "Wer spielt die Hauptrolle in „Forrest Gump“?",
+   "options": [
+    "Tom Hanks",
+    "Kevin Costner",
+    "Robin Williams"
+   ],
+   "answer": 0
+  },
+  {
+   "type": "text",
+   "q": "In welchem Land wurde „Der Herr der Ringe“ gedreht?",
+   "options": [
+    "Irland",
+    "Neuseeland",
+    "Kanada"
+   ],
+   "answer": 1
+  },
+  {
+   "type": "text",
+   "q": "Wie viele Oscars gewann „Die Rückkehr des Königs“?",
+   "options": [
+    "9",
+    "13",
+    "11"
+   ],
+   "answer": 2
+  },
+  {
+   "type": "text",
+   "q": "Wer führte Regie bei „Psycho“ (1960)?",
+   "options": [
+    "Alfred Hitchcock",
+    "Stanley Kubrick",
+    "Orson Welles"
+   ],
+   "answer": 0
+  }
+ ]
+}

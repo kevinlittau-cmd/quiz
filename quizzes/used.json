@@ -627,5 +627,39 @@
    "Wie viele Augen hat eine Honigbiene? 5",
    "Welches Tier ist eng mit dem Elefanten verwandt? Klippschliefer"
   ]
+ },
+ {
+  "datum": "2026-11-27",
+  "thema": "Wissenschaft",
+  "datei": "quizzes/2026-11-27_wissenschaft.json",
+  "fragen": [
+   "Was zieht ein Magnet an? Eisen",
+   "Welcher Planet ist am weitesten von der Sonne entfernt? Neptun",
+   "Was ist das größte Organ des Menschen? Haut",
+   "Wie viele Zähne hat ein vollständiges Erwachsenengebiss? 32",
+   "Was misst ein Barometer? Luftdruck",
+   "Wie heißt der kleinste Knochen des Menschen? Steigbügel",
+   "Welches Element hat das chemische Zeichen Ag? Silber",
+   "Wie schnell ist Licht ungefähr? 300.000 km/s",
+   "In welcher Einheit misst man Kraft? Newton",
+   "Welches Element hat das chemische Zeichen Sn? Zinn"
+  ]
+ },
+ {
+  "datum": "2026-11-27",
+  "thema": "Film",
+  "datei": "quizzes/2026-11-27_film.json",
+  "fragen": [
+   "Wie heißt der Hund von Micky Maus? Pluto",
+   "Was für ein Tier ist Pumbaa in „Der König der Löwen“? Warzenschwein",
+   "Welche Farbe hat das Lichtschwert von Darth Vader? Rot",
+   "Wie heißt der Löwe in „Madagascar“? Alex",
+   "Welcher Zauberer begleitet Frodo in „Der Herr der Ringe“? Gandalf",
+   "Wie heißt die Eule von Harry Potter? Hedwig",
+   "Wer spielt die Hauptrolle in „Forrest Gump“? Tom Hanks",
+   "In welchem Land wurde „Der Herr der Ringe“ gedreht? Neuseeland",
+   "Wie viele Oscars gewann „Die Rückkehr des Königs“? 11",
+   "Wer führte Regie bei „Psycho“ (1960)? Alfred Hitchcock"
+  ]
  }
 ]
