@@ -1,0 +1,106 @@
+{
+ "title": "DEUTSCHLAND QUIZ",
+ "subtitle": "Nur 1 % schaffen Level 10",
+ "questions": [
+  {
+   "type": "text",
+   "q": "Welches Tier ist das Wappentier Deutschlands?",
+   "options": [
+    "Löwe",
+    "Adler",
+    "Bär"
+   ],
+   "answer": 1
+  },
+  {
+   "type": "text",
+   "q": "In welcher Stadt steht die Elbphilharmonie?",
+   "options": [
+    "Hamburg",
+    "Bremen",
+    "Kiel"
+   ],
+   "answer": 0
+  },
+  {
+   "type": "text",
+   "q": "Welches Meer grenzt neben der Ostsee an Deutschland?",
+   "options": [
+    "Mittelmeer",
+    "Schwarzes Meer",
+    "Nordsee"
+   ],
+   "answer": 2
+  },
+  {
+   "type": "text",
+   "q": "Was ist die Hauptstadt von Nordrhein-Westfalen?",
+   "options": [
+    "Köln",
+    "Düsseldorf",
+    "Dortmund"
+   ],
+   "answer": 1
+  },
+  {
+   "type": "text",
+   "q": "In welchem Bundesland liegt Schloss Neuschwanstein?",
+   "options": [
+    "Bayern",
+    "Thüringen",
+    "Baden-Württemberg"
+   ],
+   "answer": 0
+  },
+  {
+   "type": "text",
+   "q": "An welchem Fluss liegt Stuttgart?",
+   "options": [
+    "Main",
+    "Rhein",
+    "Neckar"
+   ],
+   "answer": 2
+  },
+  {
+   "type": "text",
+   "q": "Was ist die Hauptstadt von Schleswig-Holstein?",
+   "options": [
+    "Lübeck",
+    "Kiel",
+    "Flensburg"
+   ],
+   "answer": 1
+  },
+  {
+   "type": "text",
+   "q": "Was ist die Hauptstadt von Thüringen?",
+   "options": [
+    "Weimar",
+    "Jena",
+    "Erfurt"
+   ],
+   "answer": 2
+  },
+  {
+   "type": "text",
+   "q": "In welcher Stadt wurde Beethoven geboren?",
+   "options": [
+    "Bonn",
+    "Wien",
+    "Leipzig"
+   ],
+   "answer": 0
+  },
+  {
+   "type": "text",
+   "q": "Bei welcher Stadt steht die Wartburg?",
+   "options": [
+    "Weimar",
+    "Eisenach",
+    "Erfurt"
+   ],
+   "answer": 1
+  }
+ ]
+}

@@ -1,0 +1,106 @@
+{
+ "title": "AUTOMARKEN QUIZ",
+ "subtitle": "Nur 1 % schaffen Level 10",
+ "questions": [
+  {
+   "type": "text",
+   "q": "Aus welchem Land kommt Mercedes-Benz?",
+   "options": [
+    "Italien",
+    "Deutschland",
+    "USA"
+   ],
+   "answer": 1
+  },
+  {
+   "type": "text",
+   "q": "Aus welchem Land kommt Nissan?",
+   "options": [
+    "Japan",
+    "Südkorea",
+    "China"
+   ],
+   "answer": 0
+  },
+  {
+   "type": "text",
+   "q": "Welche Marke baut den Polo?",
+   "options": [
+    "Opel",
+    "Ford",
+    "Volkswagen"
+   ],
+   "answer": 2
+  },
+  {
+   "type": "text",
+   "q": "Aus welchem Land kommt Citroën?",
+   "options": [
+    "Belgien",
+    "Frankreich",
+    "Italien"
+   ],
+   "answer": 1
+  },
+  {
+   "type": "text",
+   "q": "Aus welchem Land kommt Alfa Romeo?",
+   "options": [
+    "Italien",
+    "Spanien",
+    "Frankreich"
+   ],
+   "answer": 0
+  },
+  {
+   "type": "text",
+   "q": "Von welcher Marke ist der Fiesta?",
+   "options": [
+    "Renault",
+    "Opel",
+    "Ford"
+   ],
+   "answer": 2
+  },
+  {
+   "type": "text",
+   "q": "Wo hat Volkswagen seinen Hauptsitz?",
+   "options": [
+    "Wolfsburg",
+    "Hannover",
+    "Ingolstadt"
+   ],
+   "answer": 0
+  },
+  {
+   "type": "text",
+   "q": "Wo hat Audi seinen Hauptsitz?",
+   "options": [
+    "Neckarsulm",
+    "Ingolstadt",
+    "Wolfsburg"
+   ],
+   "answer": 1
+  },
+  {
+   "type": "text",
+   "q": "Zu welchem Konzern gehört Bentley?",
+   "options": [
+    "BMW",
+    "Tata",
+    "Volkswagen"
+   ],
+   "answer": 2
+  },
+  {
+   "type": "text",
+   "q": "Zu welchem Konzern gehört Land Rover?",
+   "options": [
+    "Tata",
+    "BMW",
+    "Ford"
+   ],
+   "answer": 0
+  }
+ ]
+}

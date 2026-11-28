@@ -661,5 +661,39 @@
    "Wie viele Oscars gewann „Die Rückkehr des Königs“? 11",
    "Wer führte Regie bei „Psycho“ (1960)? Alfred Hitchcock"
   ]
+ },
+ {
+  "datum": "2026-11-28",
+  "thema": "Automarken",
+  "datei": "quizzes/2026-11-28_automarken.json",
+  "fragen": [
+   "Aus welchem Land kommt Mercedes-Benz? Deutschland",
+   "Aus welchem Land kommt Nissan? Japan",
+   "Welche Marke baut den Polo? Volkswagen",
+   "Aus welchem Land kommt Citroën? Frankreich",
+   "Aus welchem Land kommt Alfa Romeo? Italien",
+   "Von welcher Marke ist der Fiesta? Ford",
+   "Wo hat Volkswagen seinen Hauptsitz? Wolfsburg",
+   "Wo hat Audi seinen Hauptsitz? Ingolstadt",
+   "Zu welchem Konzern gehört Bentley? Volkswagen",
+   "Zu welchem Konzern gehört Land Rover? Tata"
+  ]
+ },
+ {
+  "datum": "2026-11-28",
+  "thema": "Deutschland",
+  "datei": "quizzes/2026-11-28_deutschland.json",
+  "fragen": [
+   "Welches Tier ist das Wappentier Deutschlands? Adler",
+   "In welcher Stadt steht die Elbphilharmonie? Hamburg",
+   "Welches Meer grenzt neben der Ostsee an Deutschland? Nordsee",
+   "Was ist die Hauptstadt von Nordrhein-Westfalen? Düsseldorf",
+   "In welchem Bundesland liegt Schloss Neuschwanstein? Bayern",
+   "An welchem Fluss liegt Stuttgart? Neckar",
+   "Was ist die Hauptstadt von Schleswig-Holstein? Kiel",
+   "Was ist die Hauptstadt von Thüringen? Erfurt",
+   "In welcher Stadt wurde Beethoven geboren? Bonn",
+   "Bei welcher Stadt steht die Wartburg? Eisenach"
+  ]
  }
 ]
